@@ -1,0 +1,439 @@
+{
+    "info": {
+        "secteur": [
+            "Entreprise",
+            "Industrie",
+            "Service public",
+            "Service privée"
+        ],
+        "rdv": "Prendre rendez-vous",
+        "contactme": "Contacter-moi",
+        "slogan": "Dans un monde numérique où nos données valent notre identité, sécuriser ses données, c'est préserver sa liberté."
+    },
+    "meta": {
+        "keywoards": [
+            "Cybersécurité",
+            "Appareil Sécurisé",
+            "Protection vie privé",
+            "Informatique",
+            "Réseaux décentralisé",
+            "Aucune télémétrie"
+        ],
+        "description": "Protéger votre vie privé avec CyberSafe Security"
+    },
+    "header": {
+        "page_label": [
+            "Accueil",
+            "A propos",
+            "Services",
+            "Comment se protéger ?"
+        ]
+    },
+    "footer": {
+        "label": [
+            "Services",
+            "Secteurs"
+        ]
+    },
+    "fingerprint": {
+        "positive_os": "Bravo vous êtes sur Linux!",
+        "negative_os": "viole votre vie privée",
+        "tor_phrase": "Vous utilisez un relais Tor",
+        "vpn_phrase": "Vous utilisez un VPN",
+        "notvpn_phrase": "Vous devez utilisez un VPN",
+        "btn_protect_phrase": "Protéger son empreinte numérique",
+        "devices_found": "Appareils trouvé sur votre réseau Wifi"
+    },
+    "/": {
+        "heros": {
+            "title": "Votre liberté dépend de votre vie privée!",
+            "intro": "Sécurisez tous vos appareils!",
+            "btn": "Je veux me protéger!"
+        },
+        "about": {
+            "title": "Un système d'exploitation qui respecte votre vie",
+            "title_star": "privée!",
+            "card1_p1": "Êtes-vous journaliste, un indépendant ou simple citoyen souhaitant garder le contrôle sur sa vie privée ?",
+            "card1_p2": "Vous souhaitez retrouver votre liberté et vous déconnecter des géants du numérique tout en protégeant vos données ?",
+            "card1_p3": "Alors protégez-vous avec CyberSafe Security",
+            "card2_p1": "Vos systèmes sont purgés de toute télémétrie. Dégafamisez-vous. Vos connexions passent par des tunnels chiffrés et des relais Tor. Communiquez avec des messageries chiffrées de bout en bout !",
+            "card2_p2": "Toutes les applications tournent dans des sandbox virtuelles",
+            "card2_p3": "Retrouvez votre liberté et surfez sur internet anonymement !"
+        },
+        "features": {
+            "title": "Nos services pour vous protéger",
+            "description": "Protéger tout vos appareils!",
+            "ensavoirplus": "En savoir plus",
+            "data": [
+                {
+                    "name": "Ordinateur sécurisé",
+                    "description": "Système d'exploitation sécurisé, purgé de toute télémétrie, chiffrement complet du disque. Vos connexions passent par des tunnels chiffrés. Les applications tournent dans des sandbox virtuels. Messagerie chiffrée,...",
+                    "image": "/images/desktop-demo7.png",
+                    "tags": [
+                        {
+                            "label": "En savoir plus",
+                            "redirect": "services/pc",
+                            "color": "secondary"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audit de sécurité et Consultation",
+                    "description": "Notre service d’audit de sécurité vous aide à identifier les vulnérabilités et les menaces potentielles dans vos systèmes informatiques. Recevez un rapport détaillé avec des recommandations pratiques pour renforcer votre sécurité. Bénéficiez également d’une consultation spécialisée pour élaborer un plan de sécurité adapté à vos besoins. Contactez-moi dès maintenant pour planifier votre audit et améliorer votre cybersécurité !",
+                    "image": "/images/auditsecurity-preview1.webp",
+                    "tags": [
+                        {
+                            "label": "En savoir plus",
+                            "redirect": "services/consultation",
+                            "color": "secondary"
+                        }
+                    ]
+                },
+                {
+                    "name": "Téléphone mobile Dégoogliser",
+                    "description": "Mise en place d'un téléphone dégooglisé : aucune télémétrie, messagerie chiffrée. Notre OS garantissent la protection de votre vie privée en éliminant les services Google et toute collecte de données. Passez à un téléphone qui respecte votre vie privée et vous offre une tranquillité d'esprit totale.",
+                    "image": "/images/mobile-preview1.png",
+                    "tags": [
+                        {
+                            "label": "Téléphone non inclue (où sur demande)"
+                        },
+                        {
+                            "label": "Pochette Anti-Ondes Offerte!",
+                            "color": "success"
+                        },
+                        {
+                            "label": "Cache camera offert!",
+                            "color": "success"
+                        },
+                        {
+                            "label": "En savoir plus",
+                            "redirect": "services/mobile",
+                            "color": "secondary"
+                        }
+                    ]
+                },
+                {
+                    "name": "Serveur cloud décentralisé",
+                    "description": "Mise en place d'un serveur cloud chiffré et décentralisé hébergé chez vous pour sauvegarder vos photos, vidéos, mails,..., en toute sécurité ! Vos appareils CyberSafe peuvent tous se connecter au serveur cloud pour effectuer des sauvegardes hebdomadaires.",
+                    "image": "/images/nextcloud-preview1.webp",
+                    "tags": [
+                        {
+                            "label": "Pare-feu"
+                        },
+                        {
+                            "label": "4GB",
+                            "color": "success"
+                        },
+                        {
+                            "label": "8GB",
+                            "color": "success"
+                        },
+                        {
+                            "label": "Disque SSD non inclus"
+                        },
+                        {
+                            "label": "En savoir plus",
+                            "redirect": "services/cloud",
+                            "color": "secondary"
+                        }
+                    ]
+                },
+                {
+                    "name": "Box routeur Tor/VPN Wifi",
+                    "description": "Emporter votre Box Routeur Tor/VPN Wifi partout où vous êtes! Elle offre une sécurité optimale pour votre connexion internet en combinant les technologies Tor et VPN. Vous pouvez connecter tous vos appareils sans souci. Protégez vos données, accédez à des contenus restreints, et profitez d’une connexion internet plus sûre!",
+                    "image": "/images/routeurboxpi-preview1.webp",
+                    "tags": [
+                        {
+                            "label": "1 Gb/s"
+                        },
+                        {
+                            "label": "Pare-feu"
+                        },
+                        {
+                            "label": "relais Tor"
+                        },
+                        {
+                            "label": "VPN"
+                        },
+                        {
+                            "label": "Kill Switch"
+                        },
+                        {
+                            "label": "IPV6 disabled"
+                        },
+                        {
+                            "label": "En savoir plus",
+                            "redirect": "services/box-routeur",
+                            "color": "secondary"
+                        }
+                    ]
+                },
+                {
+                    "name": "Analyse forensique",
+                    "description": "Avec notre service d'analyse forensique, renforcez la résilience de vos appareils. Identifier, analyser et remédier rapidement aux incidents de sécurité. Nous collectons et examinons les preuves numériques pour déterminer l'origine et l'ampleur des attaques.",
+                    "image": "/images/servicesenplus-preview1.png",
+                    "tags": [
+                        {
+                            "label": "En savoir plus",
+                            "redirect": "services/analyse-forensique",
+                            "color": "secondary"
+                        }
+                    ]
+                }
+            ]
+        },
+        "blog": {
+            "title": "CyberSafe Security Blog",
+            "intro": "Dédié à la sécurité informatique, où vous trouverez des analyses approfondies, des conseils pratiques et les dernières actualités pour protéger vos données et renforcer votre cybersécurité!",
+            "btn": "Je veux apprendre à me protéger!",
+            "alire": "À lire aussi",
+            "publierle": "Publier le",
+            "modifierle": "Modifier le"
+        }
+    },
+    "/about": {
+        "titre": "CyberSafe Security est la pour vous protéger!",
+        "mission": {
+            "titre": "Quel est notre mission?",
+            "p1": "Chez CyberSafe Security, notre mission est de protéger aussi bien les particuliers que les entreprises contre les menaces cybernétiques, en offrant des solutions de sécurité robustes et fiables. Nous comprenons l'importance cruciale de la cybersécurité dans un monde de plus en plus connecté, où les risques évoluent constamment. Notre engagement va au-delà de la simple protection ; nous nous efforçons également de restituer aux utilisateurs leur liberté numérique et leur contrôle total sur leurs appareils",
+            "p2": "Nous croyons fermement que chaque individu et chaque organisation mérite de naviguer en ligne sans crainte de compromission ou de perte de données. Pour ce faire, nous développons des stratégies de sécurité personnalisées qui répondent aux besoins spécifiques de nos clients, en anticipant les menaces potentielles et en réagissant rapidement aux incidents",
+            "p3": "En plus de nos solutions de sécurité avancées, nous mettons un point d'honneur à éduquer nos clients sur les meilleures pratiques en matière de cybersécurité. Nous offrons des formations régulières et des conseils pratiques pour les aider à renforcer leur propre résilience face aux attaques. Notre objectif est de créer un environnement numérique plus sûr et plus fiable pour tous",
+            "p4": "Nous investissons continuellement dans la recherche et le développement pour rester à la pointe des technologies de sécurité. En adoptant une approche proactive, nous visons à prévenir les attaques avant qu'elles ne surviennent et à garantir une réponse rapide en cas d'incident. Notre équipe d'experts est dédiée à fournir un soutien constant et à résoudre efficacement tout problème de sécurité qui pourrait survenir",
+            "p5": "«Nous sommes déterminés à fournir des solutions de sécurité de pointe pour assurer la confidentialité, l'intégrité et la disponibilité de vos informations critiques»"
+        },
+        "valeur": {
+            "titre": "Nos valeurs",
+            "t1": "Innovation",
+            "p1": "Nous employons les technologies les plus avancées et innovantes disponibles pour nous assurer de rester à la pointe de la cybersécurité, en anticipant et en répondant aux menaces émergentes avec une efficacité maximale",
+            "t2": "Open Source ",
+            "p2": "Nous favorisons l'utilisation de solutions open source pour garantir la transparence, la sécurité et la flexibilité. En adoptant et en contribuant à des projets open source, nous nous assurons que nos outils sont constamment mis à jour et vérifiés",
+            "t3": "Confiance",
+            "p3": "Nous établissons des relations de confiance avec nos clients en garantissant la transparence et la confidentialité.Chaque étape du processus d'installation est décrite en détail pour garantir une compréhension totale et assurer une mise en œuvre impeccable",
+            "t4": "Engagement",
+            "p4": "Nous nous engageons à offrir un service d'excellence en mettant tout en œuvre pour protéger nos clients contre les cybermenaces. Notre priorité est de garantir une sécurité renforcée et une tranquillité d'esprit totale"
+        },
+        "choix": {
+            "titre": "Pourquoi nous choisir?",
+            "t1": "Une expertise reconnue",
+            "p1": "Nos spécialistes sont certifiés et expérimentés dans les domaines clés de la cybersécurité",
+            "t2": "Des solutions sur mesure",
+            "p2": "Nous adaptons nos services à vos besoins spécifiques pour une protection optimale",
+            "t3": "Une réactivité exemplaire",
+            "p3": "Nous sommes disponibles 24/7 pour répondre à vos urgences et incidents de sécurité",
+            "t4": "Un partenariat de confiance",
+            "p4": "Nous travaillons en étroite collaboration avec vous pour bâtir une défense robuste contre les cybermenaces"
+        }
+    },
+    "/services/analyse": {
+        "titre": "Analyse Forensique : Comprendre et Utiliser la Science de l'Investigation Numérique",
+        "intro": "L'analyse forensique, également appelée informatique légale ou investigation numérique, est une discipline scientifique dédiée à la collecte, à l'examen et à l'analyse de données provenant de systèmes informatiques, de réseaux, de supports de stockage et d'appareils numériques. Cette pratique est essentielle pour résoudre des incidents de sécurité",
+        "objectif": {
+            "titre": "Les Objectifs de l'Analyse Forensique",
+            "t1": "Collecte de Preuves",
+            "p1": "L'un des principaux objectifs de l'analyse forensique est la collecte de preuves numériques. Cela inclut la récupération de fichiers supprimés, l'analyse des journaux système, et la copie des données des disques durs de manière à préserver leur intégrité",
+            "t2": "Identification et Attribution",
+            "p2": "L'analyse forensique permet d'identifier les auteurs des incidents informatiques et de comprendre leurs actions. Cela peut inclure la traçabilité des adresses IP, l'examen des empreintes numériques et l'analyse des métadonnées des fichiers",
+            "tag2": "Comment protéger mon empreinte?",
+            "t3": "Prévention et Réponse aux Incidents",
+            "p3": "En plus de réagir aux incidents après leur survenue, l'analyse forensique joue un rôle crucial dans la prévention des incidents futurs. En analysant les méthodes utilisées par les attaquants, les clients peuvent renforcer leurs systèmes de sécurité pour éviter des attaques similaires"
+        },
+        "etape": {
+            "titre": "Les Étapes de l'Analyse Forensique",
+            "t1": "Préparation",
+            "p1": "Avant de commencer une investigation, il est essentiel de préparer un plan détaillé. Cela comprend l'identification des objectifs de l'enquête pour le client, la définition des ressources nécessaires et la mise en place des outils et techniques approprié,..",
+            "t2": "Identification",
+            "p2": "Cette étape consiste à localiser les données pertinentes pour l'enquête. Cela peut inclure des fichiers sur des disques durs, des enregistrements de communications réseau, des journaux système, et d'autres types de données numériques",
+            "t3": "Préservation",
+            "p3": "Pour garantir l'intégrité des preuves, il est crucial de préserver les données de manière appropriée. Cela inclut la création de copies exactes (images) des supports de stockage et l'utilisation de méthodes pour empêcher toute modification des données originales",
+            "t4": "Analyse",
+            "p4": "L'analyse des données est le cœur de l'investigation forensique. Cela peut inclure la recherche de fichiers spécifiques, l'analyse des journaux de transactions, la reconstruction des événements passés et l'identification des logiciels malveillants",
+            "t5": "Documentation et Rapport",
+            "p5": "Une documentation détaillée est essentielle pour toute enquête forensique. CyberSafe Security doit consigner toutes les étapes suivies, les outils utilisés, les données collectées et les résultats obtenus. Un rapport final est souvent créé pour présenter les conclusions de l'enquête de manière claire et concise"
+        },
+        "tarif": {
+            "titre": "Tarif Analyse Forensique",
+            "value": [
+                "Complexité de l'Incident",
+                "Nature de l'Incident",
+                "Étendue de l'Impact",
+                "Durée de l'Analyse",
+                "Temps Nécessaire",
+                "Urgence",
+                "Volume et Type de Données",
+                "Volume de Données",
+                "Type de Données"
+            ]
+        }
+    },
+    "/services/consultation": {
+        "titre": "Qu'est-ce que la Consultation et l'Audit de Sécurité ?",
+        "intro": "La consultation et l'audit de sécurité sont des services professionnels visant à évaluer, améliorer et assurer la sécurité des systèmes informatiques, des réseaux et des données d'un client,d'une organisation. Ces services permettent d'identifier les vulnérabilités, de recommander des mesures correctives et de s'assurer que les pratiques de sécurité sont conformes aux normes et réglementations en vigueur",
+        "objectif": {
+            "titre": "Les Objectifs de la Consultation et de l'Audit de Sécurité",
+            "t1": "Mise en Relation avec le Client",
+            "p1": "Avant chaque consultation, il est crucial d'établir une communication efficace avec le client pour comprendre ses problèmes spécifiques et ses besoins en matière de sécurité. Cette étape permet de personnaliser l'audit et de s'assurer que les solutions proposées répondent précisément aux exigences du client",
+            "t2": "Identification des Vulnérabilités",
+            "p2": "L'un des principaux objectifs de l'audit de sécurité est d'identifier les vulnérabilités dans les systèmes informatiques. Cela inclut la détection de failles dans les applications, les configurations réseau, et les pratiques de gestion des données",
+            "t3": "Amélioration Continue",
+            "p3": "La consultation de sécurité vise à fournir des recommandations pour améliorer en continu les pratiques de sécurité. Cela inclut la mise à jour des politiques de sécurité, la formation du personnel, et l'adoption de nouvelles technologies de sécurité"
+        },
+        "etape": {
+            "titre": "Les Étapes de la Consultation et de l'Audit de Sécurité",
+            "t1": "Préparation",
+            "p1": "La phase de préparation implique la définition des objectifs de l'audit, la sélection des méthodologies et des outils, et la planification des ressources nécessaires pour l'audit",
+            "t2": "Collecte d'Informations",
+            "p2": "Cette étape consiste à collecter des informations sur les systèmes, les réseaux et les pratiques de sécurité existantes. Cela peut inclure des entretiens avec le client, l'examen des documents de politique de sécurité, et l'analyse des configurations système",
+            "t3": "Évaluation et Analyse",
+            "p3": "Les experts en sécurité analysent les informations collectées pour identifier les vulnérabilités et évaluer les risques. Cette analyse peut inclure des tests de pénétration, des scans de vulnérabilités et l'examen des configurations réseau",
+            "t4": "Rapport d'Audit",
+            "p4": "Un rapport d'audit détaillé est préparé, décrivant les vulnérabilités identifiées, les risques associés, et les recommandations pour les mesures correctives. Ce rapport sert de base pour la prise de décisions stratégiques en matière de sécurité"
+        },
+        "tarif": {
+            "titre": "Tarif Consultation",
+            "value": [
+                "Consultation Initiale",
+                "Entretien avec le Client",
+                "Évaluation de la Sécurité Actuelle",
+                "Rapport Initial",
+                "Audit de Sécurité",
+                "Audit de Réseau",
+                "Audit des Applications Web",
+                "Audit Complet du Système",
+                "Tests de Pénétration",
+                "Test de Pénétration Externe",
+                "Test de Pénétration Interne",
+                "Test de Pénétration des Applications"
+            ],
+            "btn": "Prendre une consultation"
+        }
+    },
+    "/services/pc": {
+        "titre": "Soyez protéger où vous êtes!",
+        "t1": "Chiffrage complet et Secure Boot",
+        "p1": "Chiffrage complet de votre disque dur (LUKS LVM dm-crypt). Garder vos données en toute sécurité en cas de vols! Vérification de la Signature : Au démarrage, le firmware UEFI vérifie les signatures numériques des fichiers de démarrage, tels que le système d'exploitation et les pilotes. Ces signatures doivent être approuvées et reconnues comme sûres",
+        "t2": "Isolations des applications",
+        "p2": "Les applications fonctionnent avec des permissions réduites. Par défaut, elles n'ont accès qu'aux ressources strictement nécessaires pour leur fonctionnement, limitant ainsi les possibilités de compromission. Les conteneurs limitent les interactions des applications avec le système d'exploitation, réduisant ainsi le risque de compromission. Ce processus garantit que l'application dispose de tout ce dont elle a besoin, indépendamment du système sous-jacent",
+        "t3": "Messagerie chiffrée",
+        "p3": "Notre système intègre des messagerie chiffrées, garantissant la confidentialité et la sécurité de toutes vos communications. Ces messageries utilise un chiffrement de bout en bout. Electron Mail (une surcouche de Proton Mail) qui chiffre vos emails dans une base de données locale (permets de relires vos emails même hors-ligne!) et peut aussi passer par Tor ou des proxys",
+        "t4": "Connexion chiffrée VPN/TOR",
+        "p4": "Vos connexions passent par des tunnels chiffrés et des relais Tor, assurant ainsi que vos données restent sécurisées et anonymes. Ces tunnels chiffrés empêchent toute interception ou surveillance de vos communications par des tiers malveillants. Les relais Tor ajoutent une couche supplémentaire de protection en acheminant votre trafic à travers plusieurs serveurs, rendant votre activité en ligne pratiquement impossible à tracer. De plus, des mécanismes de protection supplémentaires ont été intégrés au noyau, tels que le Kill Switch, la désactivation de l'IPv6, et la génération aléatoire des adresses MAC. Ces mesures empêchent les fuites d'IPv6, de WebRTC et de DNS, tout en protégeant contre l'identification",
+        "tag4": "Pourquoi utilisez un VPN?",
+        "t5": "Pare-Feu",
+        "p5": "Notre système d'exploitation ultra-sécurisé intègre un pare-feu robuste qui assure une protection renforcée contre les menaces externes. Ce pare-feu filtre rigoureusement tout le trafic entrant et sortant, empêchant les connexions non autorisées et les attaques potentielles avant qu'elles n'atteignent votre système. Grâce à des règles de filtrage sophistiquées, il protège contre les intrusions, les logiciels malveillants et les tentatives de piratage, garantissant un environnement sécurisé pour vos données et vos applications",
+        "t6": "Outils réseau avancés",
+        "p6": "Notre système d'exploitation ultra-sécurisé inclut une suite d'outils réseau avancés conçus pour offrir un contrôle et une gestion supérieurs de votre environnement numérique. Parmi ces outils, vous trouverez la possibilité de scanner votre réseau Wi-Fi à la recherche d'intrus, vous permettant de détecter et d'éliminer rapidement tout appareil non autorisé. En plus du scan Wi-Fi, nous offrons des options de surveillance réseau qui vous permettent de suivre le trafic en temps réel, identifier les goulots d'étranglement et analyser les performances du réseau. Vous pouvez également configurer et gérer des pare-feux personnalisés, ajuster les règles de filtrage selon vos besoins spécifiques et surveiller les logs de sécurité pour détecter toute activité suspecte!",
+        "t7": "Carnet de note chiffrée",
+        "p7": "Notre système d'exploitation intègre un carnet de notes chiffré, offrant une sécurité et une confidentialité maximales pour vos informations sensibles. Ce carnet de notes utilise un chiffrement avancé pour protéger vos données, et peut être syncronisé sur un cloud décentralisé chiffrer de bout en bout chez vous! (CyberSafe cloud,NAS Synologie,...)",
+        "tag7": "CyberSafe cloud",
+        "t8": "Applications Open Source",
+        "p8": "Toute les applications sont open source pour renforcer la sécurité et la flexibilité de votre système ultra-sécurisé. Avec leur code source accessible publiquement, ces applications permettent une transparence totale, vous garantissant que chaque ligne de code peut être examinée et vérifiée pour des failles de sécurité potentielles. Cela signifie que vous bénéficiez de la robustesse d'un logiciel constamment surveillé et amélioré par une communauté mondiale de développeurs",
+        "tag8": "Open QUOI?",
+        "t9": "Purgé de toute télémétrie",
+        "p9": "Votre système est purgé de toute télémétrie, vous optez pour une solution puissante pour renforcer la confidentialité et la sécurité de vos données. La purge consiste à éliminer ou stopper la collecte de données relatives au comportement, aux performances et à l'utilisation de services et/ou logiciels non vérifier. Votre système est entièrement dégafamiser! Retrouver votre liberté!",
+        "tag9": "Pourquoi se dégafamiser?",
+        "tarif": {
+            "titre": "Tarif installation",
+            "value": [
+                "Chiffrage complet disque dur (LUKS LVM dm-crypt)",
+                "Secure Boot et BIOS protégé",
+                "Purgé de toute télémétrie",
+                "Applications Open Source",
+                "Isolations des applications dans des containers virtuelles (n'intéragis pas directement avec le système)",
+                "Messagerie chiffrée",
+                "Connexion chiffrée VPN/TOR",
+                "Kill Switch,désactivation IPv6,génération aléatoire des adresses MAC (pour chaque interface réseau)",
+                "Pare-Feu physique intégré au noyaux et Pare-Feu Applicatif",
+                "Outils réseau avancés",
+                "Carnet de note chiffrée (possibilité d'être syncronisé avec un cloud décentralisé)",
+                "Possibilité de backup complet du système sur un cloud décentralisé",
+                "Racourcis clavier avancé"
+            ]
+        }
+    },
+    "/services/mobile": {
+        "titre": "Passez à un téléphone qui respecte votre vie privée et vous offre une tranquillité d'esprit totale",
+        "t1": "Chiffrage complet et Secure Boot",
+        "p1": "Chiffrage complet de votre Téléphone. Garder vos données en toute sécurité en cas de vols! Sécurité des Micrologiciels, inclut des fonctionnalités spécifiques comme la vérification des micrologiciels (firmware) pour assurer leur intégrité et leur sécurité",
+        "t2": "Isolations des applications",
+        "p2": "Les applications fonctionnent avec des permissions réduites. Par défaut, elles n'ont accès qu'aux ressources strictement nécessaires pour leur fonctionnement, limitant ainsi les possibilités de compromission. Les conteneurs limitent les interactions des applications avec le système d'exploitation, réduisant ainsi le risque de compromission. Ce processus garantit que l'application dispose de tout ce dont elle a besoin, indépendamment du système sous-jacent",
+        "t3": "Messagerie chiffrée",
+        "p3": "Notre système intègre des messagerie chiffrées, garantissant la confidentialité et la sécurité de toutes vos communications. Ces messageries utilise un chiffrement de bout en bout. Communiquer avec des emails chiffrer de bout en bout",
+        "t4": "Connexion chiffrée VPN/TOR",
+        "p4": "Vos connexions passent par des tunnels chiffrés et des relais Tor, assurant ainsi que vos données restent sécurisées et anonymes. Ces tunnels chiffrés empêchent toute interception ou surveillance de vos communications par des tiers malveillants. Les relais Tor ajoutent une couche supplémentaire de protection en acheminant votre trafic à travers plusieurs serveurs, rendant votre activité en ligne pratiquement impossible à tracer.",
+        "tag4": "Pourquoi utilisez un VPN?",
+        "t5": "Applications Open Source",
+        "p5": "Toute les applications sont open source pour renforcer la sécurité et la flexibilité de votre système ultra-sécurisé. Avec leur code source accessible publiquement, ces applications permettent une transparence totale, vous garantissant que chaque ligne de code peut être examinée et vérifiée pour des failles de sécurité potentielles. Cela signifie que vous bénéficiez de la robustesse d'un logiciel constamment surveillé et amélioré par une communauté mondiale de développeurs",
+        "tag5": "Open QUOI?",
+        "t6": "Purgé de toute télémétrie",
+        "p6": "Votre système est purgé de toute télémétrie, vous optez pour une solution puissante pour renforcer la confidentialité et la sécurité de vos données. La purge consiste à éliminer ou stopper la collecte de données relatives au comportement, aux performances et à l'utilisation de services et/ou logiciels non vérifier. Votre système est entièrement dégafamiser! Retrouver votre liberté!",
+        "tag6": "Pourquoi se dégafamiser?",
+        "t7": "Pochettes anti-ondes et cache camera",
+        "p7": "Notre pochette anti-ondes est spécialement conçue pour bloquer les signaux radiofréquences et  les ondes électromagnétiques émises par les appareils électroniques. En utilisant cette pochette, vous devenez introuvable pour les antennes relais téléphoniques qui suivent votre position en permanence. Le cache caméra est un accessoire indispensable pour protéger votre vie privée contre les intrusions visuelles. Il permet de couvrir les caméras intégrées de vos appareils lorsque vous ne les utilisez pas. Facile à appliquer et à retirer, il possède un design mince et discret qui n'altère pas l'esthétique de votre appareil. De plus, il est compatible avec la plupart des dispositifs équipés de caméras intégrées",
+        "tarif": {
+            "titre": "Tarif installation",
+            "value": [
+                "Chiffrage complet disque dur",
+                "Secure Bootloader et vérification des micrologiciels (firmware)",
+                "Purgé de toute télémétrie",
+                "Applications Open Source",
+                "Isolations des applications dans des containers virtuelles (n'intéragis pas directement avec le système)",
+                "Messagerie chiffrée",
+                "Connexion chiffrée VPN/TOR",
+                "Kill Switch,désactivation IPv6,génération aléatoire des adresses MAC (pour chaque interface réseau)",
+                "Pare-Feu physique intégré au noyaux et Pare-Feu Applicatif",
+                "Possibilité de backup complet du système sur un cloud décentralisé"
+            ]
+        }
+    },
+    "/services/cloud": {
+        "titre": "Garder vos données chez vous en toute sécurité!",
+        "t1": "Données chiffrée de bout en bout",
+        "p1": "Toutes vos données sont chiffrées de bout en bout sur notre serveur décentralisé, assurant une sécurité maximale et une confidentialité totale. Ce chiffrement protège vos informations sensibles des accès non autorisés, que ce soit lors de leur transmission ou de leur stockage. Profitez d'une tranquillité d'esprit totale en sachant que vos données restent sécurisées et privées grâce à notre technologie avancée de chiffrement",
+        "t2": "Confidentialité des données",
+        "p2": "La confidentialité des données est notre priorité absolue. Vos informations ne sont jamais partagées avec des tiers, garantissant que vous avez un contrôle absolu sur vos données. Vous pouvez naviguer, communiquer et travailler en toute sérénité, sachant que vos données restent strictement confidentielles et sécurisées, uniquement accessibles par vous. Vous hébergez,vous controlez!",
+        "t3": "Tunnel chiffré",
+        "p3": "Vos appareils CyberSafe utilisent des tunnels chiffrés pour accéder au serveur cloud, garantissant ainsi la sécurité et la confidentialité de vos données. Ces tunnels cryptographiques protègent vos informations contre les interceptions et les accès non autorisés, vous permettant de transférer et de stocker vos données en toute sérénité. Profitez d'une connexion sécurisée et fiable, assurée par notre technologie de chiffrement avancée, pour toutes vos opérations sur le cloud",
+        "t4": "Accéder y partout ou vous êtes!",
+        "p4": "Même auto-héberger chez vous en local, grâce à notre technologie de tunnels chiffrés, vous pouvez accéder à vos données partout où vous êtes. Que vous soyez en déplacement ou à domicile, vos informations sont toujours à portée de main et sécurisées contre les accès non autorisés. Profitez de la liberté et de la flexibilité d'une connexion sécurisée à vos données, peu importe votre localisation",
+        "t5": "Liberté de configurer et personnaliser le serveur selon vos besoins spécifiques",
+        "p5": "Personnalisez votre cloud selon vos besoins spécifiques avec nos solutions flexibles et sécurisées. Configurez vos espaces de stockage, gérez les accès et les permissions, et choisissez les niveaux de sécurité adaptés à vos exigences. Avec notre interface intuitive, vous avez un contrôle total pour créer un environnement cloud qui répond parfaitement à vos attentes!",
+        "tarif": {
+            "titre": "Tarif installation",
+            "value": [
+                "Données chiffrée de bout en bout",
+                "Contrôle et propriété des données",
+                "Confidentialité et sécurité",
+                "Auto-hébergement",
+                "Connexion chiffrée",
+                "Accessible partout vous êtes!",
+                "Hautement personnalisable"
+            ]
+        }
+    },
+    "/services/routeur": {
+        "titre": "Emportez votre box partout avec vous et connectez tous vos appareils !",
+        "t1": "Connexion chiffrée VPN/TOR",
+        "p1": "Notre routeur passe par des tunnels chiffrés et des relais Tor, assurant ainsi que vos données restent sécurisées et anonymes. Ces tunnels chiffrés empêchent toute interception ou surveillance de vos communications par des tiers malveillants. Les relais Tor ajoutent une couche supplémentaire de protection en acheminant votre trafic à travers plusieurs serveurs, rendant votre activité en ligne pratiquement impossible à tracer",
+        "tag1": "Pourquoi utilisez un VPN?",
+        "t2": "Débit 1Gb/s",
+        "p2": "Notre box routeur offre une connexion Internet ultra-rapide avec un débit de 1 Gb/s. Cela vous garantit des vitesses de téléchargement et de téléversement exceptionnelles, idéales pour les activités exigeantes en bande passante comme le streaming 4K, les jeux en ligne, et le télétravail. Profitez d'une expérience Internet sans interruption et d'une performance réseau optimale grâce à notre technologie de pointe. Connecter plusieurs appareils sans problème!",
+        "t3": "Pare-Feu",
+        "p3": "Notre routeur intègre un pare-feu robuste qui assure une protection renforcée contre les menaces externes. Ce pare-feu filtre rigoureusement tout le trafic entrant et sortant, empêchant les connexions non autorisées et les attaques potentielles avant qu'elles n'atteignent votre système. Des protections supplémentaires ont été intégrés au noyau, tels que le Kill Switch (empêche la divulgation de votre addresse IP même si votre VPN se déconnecte), la désactivation de l'IPv6",
+        "t4": "Accéder a du contenu restreint",
+        "p4": "Notre box routeur vous permet d'accéder à du contenu restreint en toute simplicité pour tous vos appareils. Grâce à des fonctionnalités avancées de réseau, vous pouvez contourner les restrictions géographiques et profiter de vos sites web, services de streaming, et autres contenus préférés, peu importe votre emplacement. Profitez d'une liberté totale sur Internet et d'un accès illimité à une variété de contenus grâce à notre solution hautement performante",
+        "t5": "Emporter la partout!",
+        "p5": "Grâce à sa petite taille, notre box routeur est conçue pour être facilement transportable, vous permettant de l'emporter partout où vous allez. Que vous soyez en déplacement professionnel, en vacances, ou chez des amis, vous pouvez bénéficier d'une connexion Internet rapide et sécurisée. Profitez de la commodité et de la flexibilité d'un accès Internet portable avec notre box routeur compacte et performante",
+        "tarif": {
+            "titre": "Tarif installation",
+            "value": [
+                "Connexion chiffrée VPN/TOR",
+                "Débit 1Gb/s",
+                "Protéger tous vos appareils!",
+                "Pare-Feu",
+                "Kill Switch,désactivation IPv6",
+                "Accéder à du contenu restreint en toute sécurité!",
+                "Emporter votre box routeur partout où vous êtes!"
+            ]
+        }
+    }
+}

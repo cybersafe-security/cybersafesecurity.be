@@ -1,0 +1,56 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-debug.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# SvelteKit build output
+.svelte-kit/
+build/
+
+# Static output
+output/
+static/
+
+# Vite cache
+.vite/
+.cache/
+
+# Environment variables
+.env
+.env.*
+.env.local
+
+# Local IDE config
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*~
+
+# Dependency directories
+.DS_Store
+Thumbs.db
+
+# MacOS system files
+*.DS_Store
+
+# Optional npm cache directory
+.npm/
+.pnpm-store/
+
+# JetBrains IDEs
+.idea/
+
+# VSCode settings
+.vscode/
+
+# SvelteKit specific
+.svelte-kit/

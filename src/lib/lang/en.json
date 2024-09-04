@@ -1,0 +1,439 @@
+{
+    "info": {
+        "secteur": [
+            "Business",
+            "Industry",
+            "Public Service",
+            "Private Service"
+        ],
+        "rdv": "Make an appointment",
+        "contactme": "Contacte me",
+        "slogan": "In a digital world where our data is worth our identity, securing data means preserving freedom."
+    },
+    "meta": {
+        "keywoards": [
+            "Cybersecurity",
+            "Secure Device",
+            "Privacy Protection",
+            "Information Technology",
+            "Decentralized Network",
+            "No telemetry"
+        ],
+        "description": "Protect your privacy with CyberSafe Security"
+    },
+    "header": {
+        "page_label": [
+            "Home",
+            "About",
+            "Services",
+            "How to Protect Yourself?"
+        ]
+    },
+    "footer": {
+        "label": [
+            "Services",
+            "Sectors"
+        ]
+    },
+    "fingerprint": {
+        "positive_os": "Congratulations, you are on Linux!",
+        "negative_os": "violates your privacy",
+        "tor_phrase": "You are using a Tor relay",
+        "vpn_phrase": "You are using a VPN",
+        "notvpn_phrase": "You should use a VPN",
+        "btn_protect_phrase": "Protect your digital footprint",
+        "devices_found": "Devices found on your Wifi network"
+    },
+    "/": {
+        "heros": {
+            "title": "Your freedom depends on your privacy!",
+            "intro": "Secure all your devices!",
+            "btn": "I want to protect myself!"
+        },
+        "about": {
+            "title": "An operating system that respects your",
+            "title_star": "privacy!",
+            "card1_p1": "Are you a journalist, freelancer or just a citizen who wants to keep control over their privacy?",
+            "card1_p2": "Do you want to regain your freedom and disconnect from digital giants while protecting your data?",
+            "card1_p3": "Then protect yourself with CyberSafe Security",
+            "card2_p1": "Your systems are purged of all telemetry. De-GAFAM yourself. Your connections go through encrypted tunnels and Tor relays. Communicate with end-to-end encrypted messaging!",
+            "card2_p2": "All applications run in virtual sandboxes",
+            "card2_p3": "Regain your freedom and surf the internet anonymously!"
+        },
+        "features": {
+            "title": "Our services to protect you",
+            "description": "Protect all your devices!",
+            "ensavoirplus": "Learn more",
+            "data": [
+                {
+                    "name": "Secure computer",
+                    "description": "Secure operating system, purged of all telemetry, full disk encryption. Your connections go through encrypted tunnels. Applications run in virtual sandboxes. Encrypted messaging,...",
+                    "image": "/images/desktop-demo7.png",
+                    "tags": [
+                        {
+                            "label": "Learn more",
+                            "redirect": "services/pc",
+                            "color": "secondary"
+                        }
+                    ]
+                },
+                {
+                    "name": "Security Audit and Consultation",
+                    "description": "Our security audit service helps you identify vulnerabilities and potential threats in your computer systems. Receive a detailed report with practical recommendations to strengthen your security. Also benefit from specialized consultation to develop a security plan tailored to your needs. Contact me now to schedule your audit and improve your cybersecurity!",
+                    "image": "/images/auditsecurity-preview1.webp",
+                    "tags": [
+                        {
+                            "label": "Learn more",
+                            "redirect": "services/consultation",
+                            "color": "secondary"
+                        }
+                    ]
+                },
+                {
+                    "name": "De-Googled mobile phone",
+                    "description": "Setting up a de-Googled phone: no telemetry, encrypted messaging. Our OS guarantees the protection of your privacy by eliminating Google services and all data collection. Switch to a phone that respects your privacy and offers you total peace of mind.",
+                    "image": "/images/mobile-preview1.png",
+                    "tags": [
+                        {
+                            "label": "Phone not included (or on request)"
+                        },
+                        {
+                            "label": "Anti-Wave Pouch Offered!",
+                            "color": "success"
+                        },
+                        {
+                            "label": "Camera cover offered!",
+                            "color": "success"
+                        },
+                        {
+                            "label": "Learn more",
+                            "redirect": "services/mobile",
+                            "color": "secondary"
+                        }
+                    ]
+                },
+                {
+                    "name": "Decentralized cloud server",
+                    "description": "Setting up an encrypted and decentralized cloud server hosted at your place to securely backup your photos, videos, emails,...! Your CyberSafe devices can all connect to the cloud server to perform weekly backups.",
+                    "image": "/images/nextcloud-preview1.webp",
+                    "tags": [
+                        {
+                            "label": "Integrated firewall"
+                        },
+                        {
+                            "label": "4GB",
+                            "color": "success"
+                        },
+                        {
+                            "label": "8GB",
+                            "color": "success"
+                        },
+                        {
+                            "label": "SSD not included"
+                        },
+                        {
+                            "label": "Learn more",
+                            "redirect": "services/cloud",
+                            "color": "secondary"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tor/VPN Wifi Router Box",
+                    "description": "Take your Tor/VPN Wifi Router Box with you wherever you go! It offers optimal security for your internet connection by combining Tor and VPN technologies. You can connect all your devices without worry. Protect your data, access restricted content, and enjoy a safer internet connection!",
+                    "image": "/images/routeurboxpi-preview1.webp",
+                    "tags": [
+                        {
+                            "label": "1 Gb/s"
+                        },
+                        {
+                            "label": "Firewall"
+                        },
+                        {
+                            "label": "Tor relay"
+                        },
+                        {
+                            "label": "VPN"
+                        },
+                        {
+                            "label": "Kill Switch"
+                        },
+                        {
+                            "label": "IPV6 disabled"
+                        },
+                        {
+                            "label": "Learn more",
+                            "redirect": "services/box-routeur",
+                            "color": "secondary"
+                        }
+                    ]
+                },
+                {
+                    "name": "Forensic analysis",
+                    "description": "With our forensic analysis service, strengthen the resilience of your devices. Identify, analyze and quickly remedy security incidents. We collect and examine digital evidence to determine the origin and extent of attacks.",
+                    "image": "/images/servicesenplus-preview1.png",
+                    "tags": [
+                        {
+                            "label": "Learn more",
+                            "redirect": "services/analyse-forensique",
+                            "color": "secondary"
+                        }
+                    ]
+                }
+            ]
+        },
+        "blog": {
+            "title": "CyberSafe Security Blog",
+            "intro": "Dedicated to computer security, where you will find in-depth analysis, practical advice, and the latest news to protect your data and strengthen your cybersecurity!",
+            "btn": "I want to learn how to protect myself!",
+            "alire": "Also read",
+            "publierle": "Publish",
+            "modifierle": "Edit"
+        }
+    },
+    "/about": {
+        "titre": "CyberSafe Security is here to protect you!",
+        "mission": {
+            "titre": "What is our mission?",
+            "p1": "At CyberSafe Security, our mission is to protect both individuals and businesses against cyber threats by offering robust and reliable security solutions. We understand the crucial importance of cybersecurity in an increasingly connected world where risks are constantly evolving. Our commitment goes beyond mere protection; we also strive to return digital freedom and total control of devices to users",
+            "p2": "We firmly believe that every individual and organization deserves to navigate online without fear of compromise or data loss. To achieve this, we develop personalized security strategies that meet the specific needs of our clients, anticipating potential threats and responding quickly to incidents",
+            "p3": "In addition to our advanced security solutions, we are committed to educating our clients on best practices in cybersecurity. We offer regular training and practical advice to help them strengthen their own resilience against attacks. Our goal is to create a safer and more reliable digital environment for all",
+            "p4": "We continually invest in research and development to stay at the forefront of security technologies. By adopting a proactive approach, we aim to prevent attacks before they occur and ensure a rapid response in case of incidents. Our team of experts is dedicated to providing constant support and effectively resolving any security issues that may arise",
+            "p5": "“We are committed to providing cutting-edge security solutions to ensure the confidentiality, integrity, and availability of your critical information”"
+        },
+        "valeur": {
+            "titre": "Our values",
+            "t1": "Innovation",
+            "p1": "We use the most advanced and innovative technologies available to ensure we stay at the forefront of cybersecurity, anticipating and responding to emerging threats with maximum efficiency",
+            "t2": "Open Source",
+            "p2": "We promote the use of open-source solutions to ensure transparency, security, and flexibility. By adopting and contributing to open-source projects, we ensure that our tools are constantly updated and verified",
+            "t3": "Trust",
+            "p3": "We build trust-based relationships with our clients by ensuring transparency and confidentiality. Every step of the installation process is detailed to ensure total understanding and flawless implementation",
+            "t4": "Commitment",
+            "p4": "We are committed to providing excellent service by doing everything possible to protect our clients against cyber threats. Our priority is to ensure enhanced security and total peace of mind"
+        },
+        "choix": {
+            "titre": "Why choose us?",
+            "t1": "Recognized expertise",
+            "p1": "Our specialists are certified and experienced in key areas of cybersecurity",
+            "t2": "Tailor-made solutions",
+            "p2": "We adapt our services to your specific needs for optimal protection",
+            "t3": "Outstanding responsiveness",
+            "p3": "We are available 24/7 to respond to your emergencies and security incidents",
+            "t4": "A trusted partnership",
+            "p4": "We work closely with you to build a robust defense against cyber threats"
+        }
+    },
+    "/services/analyse": {
+        "titre": "Forensic Analysis: Understanding and Using Digital Investigation Science",
+        "intro": "Forensic analysis, also called digital forensics or computer forensics, is a scientific discipline dedicated to the collection, examination, and analysis of data from computer systems, networks, storage devices, and digital devices. This practice is essential for resolving security incidents",
+        "objectif": {
+            "titre": "The Objectives of Forensic Analysis",
+            "t1": "Evidence Collection",
+            "p1": "One of the main objectives of forensic analysis is the collection of digital evidence. This includes recovering deleted files, analyzing system logs, and copying data from hard drives in a way that preserves their integrity",
+            "t2": "Identification and Attribution",
+            "p2": "Forensic analysis makes it possible to identify the authors of computer incidents and understand their actions. This can include tracing IP addresses, examining digital fingerprints, and analyzing file metadata",
+            "tag2": "How to protect my footprint?",
+            "t3": "Prevention and Incident Response",
+            "p3": "In addition to responding to incidents after they occur, forensic analysis plays a crucial role in preventing future incidents. By analyzing the methods used by attackers, clients can strengthen their security systems to avoid similar attacks"
+        },
+        "etape": {
+            "titre": "The Steps of Forensic Analysis",
+            "t1": "Preparation",
+            "p1": "Before starting an investigation, it is essential to prepare a detailed plan. This includes identifying the objectives of the investigation for the client, defining the necessary resources, and ensuring the investigators have the skills and tools required",
+            "t2": "Acquisition",
+            "p2": "The acquisition step involves collecting relevant data for the investigation. This can include copying data from storage devices, capturing network traffic, and collecting system logs",
+            "t3": "Examination",
+            "p3": "During the examination phase, analysts carefully examine the collected data to identify evidence of malicious activity. This can include analyzing files, searching for malicious software, and examining system logs",
+            "t4": "Analysis",
+            "p4": "The analysis phase consists of interpreting the data collected and drawing conclusions. Analysts can identify attack patterns, determine the actions of the attackers, and assess the impact of the incident",
+            "t5": "Reporting",
+            "p5": "At the end of the investigation, a detailed report is prepared for the client. This report includes the results of the analysis, identified evidence, and recommendations to improve security"
+        },
+        "tarif": {
+            "title": "Forensic Analysis Tariff",
+            "value": [
+                "Incident Complexity",
+                "Incident Nature",
+                "Extent of Impact",
+                "Duration of Analysis",
+                "Time Required",
+                "Urgency",
+                "Volume and Type of Data",
+                "Data Volume",
+                "Data Type"
+            ]
+        }
+    },
+    "/services/consultation": {
+        "titre": "Security Audit and Consulting: Identify and Mitigate Threats to Your IT Systems",
+        "intro": "Security auditing is a proactive approach to identifying and addressing vulnerabilities in your computer systems. This essential service ensures the protection of your data and the resilience of your infrastructure against cyber threats",
+        "objectif": {
+            "titre": "The Objectives of a Security Audit",
+            "t1": "Vulnerability Detection",
+            "p1": "One of the main objectives of a security audit is to identify weaknesses in your IT systems. This can include misconfigurations, outdated software, and poorly implemented security policies",
+            "t2": "Risk Assessment",
+            "p2": "In addition to identifying vulnerabilities, a security audit also assesses the risks associated with these weaknesses. This helps to prioritize corrective actions based on their potential impact",
+            "t3": "Regulatory Compliance",
+            "p3": "Security audits also help organizations meet regulatory compliance requirements. This can include standards such as GDPR, HIPAA, and PCI-DSS"
+        },
+        "etape": {
+            "titre": "The Steps of a Security Audit",
+            "t1": "Planning",
+            "p1": "Before starting an audit, it is essential to define its objectives, scope, and methodology. This involves identifying the systems to be examined, determining the audit criteria, and ensuring the auditors have the necessary skills",
+            "t2": "Data Collection",
+            "p2": "During the audit, data is collected through various methods, including vulnerability scans, configuration reviews, and interviews with key staff",
+            "t3": "Analysis",
+            "p3": "The collected data is then analyzed to identify vulnerabilities and assess risks. This analysis includes examining system configurations, reviewing security policies, and assessing compliance with best practices",
+            "t4": "Reporting",
+            "p4": "At the end of the audit, a detailed report is prepared. This report includes identified vulnerabilities, assessed risks, and recommendations to improve security"
+        },
+        "tarif": {
+            "title": "Consultation Tariff",
+            "value": [
+                "Initial Consultation",
+                "Client Interview",
+                "Current Security Assessment",
+                "Initial Report",
+                "Security Audit",
+                "Network Audit",
+                "Web Application Audit",
+                "Complete System Audit",
+                "Penetration Testing",
+                "External Penetration Testing",
+                "Internal Penetration Testing",
+                "Application Penetration Testing"
+            ],
+            "btn": "Schedule a Consultation"
+        }
+    },
+    "/services/pc": {
+        "titre": "Be protected wherever you are!",
+        "t1": "Full Encryption and Secure Boot",
+        "p1": "Full disk encryption (LUKS LVM dm-crypt). Keep your data safe in case of theft! Signature Verification: At startup, the UEFI firmware verifies the digital signatures of boot files, such as the operating system and drivers. These signatures must be approved and recognized as secure",
+        "t2": "Application Isolation",
+        "p2": "Applications run with reduced permissions. By default, they only have access to resources strictly necessary for their operation, thus limiting the possibilities of compromise. Containers limit application interactions with the operating system, reducing the risk of compromise. This process ensures that the application has everything it needs, independently of the underlying system",
+        "t3": "Encrypted Messaging",
+        "p3": "Our system integrates encrypted messaging, ensuring the confidentiality and security of all your communications. These messengers use end-to-end encryption. Electron Mail (an overlay of Proton Mail) encrypts your emails in a local database (allows you to read your emails even offline!) and can also go through Tor or proxies",
+        "t4": "Encrypted VPN/TOR Connection",
+        "p4": "Your connections go through encrypted tunnels and Tor relays, ensuring that your data remains secure and anonymous. These encrypted tunnels prevent any interception or surveillance of your communications by malicious third parties. Tor relays add an extra layer of protection by routing your traffic through multiple servers, making your online activity virtually impossible to trace. Additionally, extra protection mechanisms have been integrated into the kernel, such as Kill Switch, IPv6 deactivation, and random MAC address generation. These measures prevent IPv6, WebRTC, and DNS leaks while protecting against identification",
+        "tag4": "Why use a VPN?",
+        "t5": "Firewall",
+        "p5": "Our ultra-secure operating system integrates a robust firewall that provides enhanced protection against external threats. This firewall rigorously filters all incoming and outgoing traffic, preventing unauthorized connections and potential attacks before they reach your system. With sophisticated filtering rules, it protects against intrusions, malware, and hacking attempts, ensuring a secure environment for your data and applications",
+        "t6": "Advanced Network Tools",
+        "p6": "Our ultra-secure operating system includes a suite of advanced network tools designed to offer superior control and management of your digital environment. Among these tools, you will find the ability to scan your Wi-Fi network for intruders, allowing you to quickly detect and eliminate any unauthorized device. In addition to Wi-Fi scanning, we offer network monitoring options that let you track traffic in real-time, identify bottlenecks, and analyze network performance. You can also configure and manage custom firewalls, adjust filtering rules to your specific needs, and monitor security logs to detect any suspicious activity",
+        "t7": "Encrypted Notebook",
+        "p7": "Our operating system integrates an encrypted notebook, offering maximum security and confidentiality for your sensitive information. This notebook uses advanced encryption to protect your data and can be synchronized on an end-to-end encrypted decentralized cloud at your home! (CyberSafe cloud, Synology NAS, ...)",
+        "tag7": "CyberSafe cloud",
+        "t8": "Open Source Applications",
+        "p8": "All applications are open source to enhance the security and flexibility of your ultra-secure system. With their publicly accessible source code, these applications allow complete transparency, ensuring that every line of code can be examined and verified for potential security flaws. This means you benefit from the robustness of software constantly monitored and improved by a global community of developers",
+        "tag8": "Open WHAT?",
+        "t9": "Purged of All Telemetry",
+        "p9": "Your system is purged of all telemetry, opting for a powerful solution to enhance the privacy and security of your data. The purge involves eliminating or stopping the collection of data related to behavior, performance, and the use of unverified services and/or software. Your system is fully de-GAFAMed! Reclaim your freedom!",
+        "tag9": "Why de-GAFAM?",
+        "tarif": {
+            "titre": "Installation Fee",
+            "value": [
+                "Full Disk Encryption (LUKS LVM dm-crypt)",
+                "Secure Boot and Protected BIOS",
+                "Purged of All Telemetry",
+                "Open Source Applications",
+                "Application Isolation in Virtual Containers (does not interact directly with the system)",
+                "Encrypted Messaging",
+                "Encrypted VPN/TOR Connection",
+                "Kill Switch, IPv6 Disabling, Random MAC Address Generation (for each network interface)",
+                "Physical Firewall Integrated into the Kernel and Application Firewall",
+                "Advanced Network Tools",
+                "Encrypted Notebook (can be synchronized with a decentralized cloud)",
+                "Full System Backup Capability on a Decentralized Cloud",
+                "Advanced Keyboard Shortcuts"
+            ]
+        }
+    },
+    "/services/cloud": {
+        "titre": "Keep your data safe at home!",
+        "t1": "End-to-end encrypted data",
+        "p1": "All your data is end-to-end encrypted on our decentralized server, ensuring maximum security and total confidentiality. This encryption protects your sensitive information from unauthorized access, whether during transmission or storage. Enjoy complete peace of mind knowing that your data remains secure and private thanks to our advanced encryption technology",
+        "t2": "Data privacy",
+        "p2": "Data privacy is our top priority. Your information is never shared with third parties, ensuring that you have absolute control over your data. You can browse, communicate, and work with peace of mind, knowing that your data remains strictly confidential and secure, accessible only by you. You host, you control!",
+        "t3": "Encrypted tunnel",
+        "p3": "Your CyberSafe devices use encrypted tunnels to access the cloud server, thus ensuring the security and confidentiality of your data. These cryptographic tunnels protect your information against interceptions and unauthorized access, allowing you to transfer and store your data with complete peace of mind. Enjoy a secure and reliable connection, assured by our advanced encryption technology, for all your cloud operations",
+        "t4": "Access it anywhere you are!",
+        "p4": "Even self-hosted at your home locally, thanks to our encrypted tunnel technology, you can access your data wherever you are. Whether you're on the move or at home, your information is always at your fingertips and secured against unauthorized access. Enjoy the freedom and flexibility of a secure connection to your data, regardless of your location",
+        "t5": "Freedom to configure and customize the server according to your specific needs",
+        "p5": "Customize your cloud according to your specific needs with our flexible and secure solutions. Configure your storage spaces, manage access and permissions, and choose security levels tailored to your requirements. With our intuitive interface, you have total control to create a cloud environment that perfectly meets your expectations!",
+        "tarif": {
+            "titre": "Installation rate",
+            "value": [
+                "End-to-end encrypted data",
+                "Data control and ownership",
+                "Privacy and security",
+                "Self-hosting",
+                "Encrypted connection",
+                "Accessible wherever you are!",
+                "Highly customizable"
+            ]
+        }
+    },
+    "/services/mobile": {
+        "titre": "Switch to a phone that respects your privacy and offers you complete peace of mind",
+        "t1": "Full encryption and Secure Boot",
+        "p1": "Full encryption of your Phone. Keep your data safe in case of theft! Firmware Security, includes specific features such as firmware verification to ensure their integrity and security",
+        "t2": "Application isolation",
+        "p2": "Applications run with reduced permissions. By default, they only have access to resources strictly necessary for their operation, thus limiting the possibilities of compromise. Containers limit the interactions of applications with the operating system, thereby reducing the risk of compromise. This process ensures that the application has everything it needs, independently of the underlying system",
+        "t3": "Encrypted messaging",
+        "p3": "Our system integrates encrypted messaging, guaranteeing the confidentiality and security of all your communications. These messaging systems use end-to-end encryption. Communicate with end-to-end encrypted emails",
+        "t4": "Encrypted VPN/TOR connection",
+        "p4": "Your connections pass through encrypted tunnels and Tor relays, ensuring that your data remains secure and anonymous. These encrypted tunnels prevent any interception or surveillance of your communications by malicious third parties. Tor relays add an additional layer of protection by routing your traffic through multiple servers, making your online activity virtually impossible to trace.",
+        "tag4": "Why use a VPN?",
+        "t5": "Open Source Applications",
+        "p5": "All applications are open source to enhance the security and flexibility of your ultra-secure system. With their publicly accessible source code, these applications allow for total transparency, ensuring that every line of code can be examined and verified for potential security flaws. This means you benefit from the robustness of software constantly monitored and improved by a global community of developers",
+        "tag5": "Open WHAT?",
+        "t6": "Purged of all telemetry",
+        "p6": "Your system is purged of all telemetry, you opt for a powerful solution to strengthen the confidentiality and security of your data. The purge consists of eliminating or stopping the collection of data related to the behavior, performance, and use of unverified services and/or software. Your system is entirely de-GAFAMized! Regain your freedom!",
+        "tag6": "Why de-GAFAMize?",
+        "t7": "Anti-wave pouches and camera cover",
+        "p7": "Our anti-wave pouch is specially designed to block radio frequency signals and electromagnetic waves emitted by electronic devices. By using this pouch, you become untraceable for cell phone towers that constantly track your position. The camera cover is an essential accessory to protect your privacy against visual intrusions. It allows you to cover the built-in cameras of your devices when you're not using them. Easy to apply and remove, it has a slim and discreet design that doesn't alter the aesthetics of your device. Moreover, it's compatible with most devices equipped with built-in cameras",
+        "tarif": {
+            "titre": "Installation rate",
+            "value": [
+                "Full hard drive encryption",
+                "Secure Bootloader and firmware verification",
+                "Purged of all telemetry",
+                "Open Source Applications",
+                "Application isolation in virtual containers (does not interact directly with the system)",
+                "Encrypted messaging",
+                "Encrypted VPN/TOR connection",
+                "Kill Switch, IPv6 deactivation, random MAC address generation (for each network interface)",
+                "Physical Firewall integrated into the kernel and Application Firewall",
+                "Possibility of complete system backup on a decentralized cloud"
+            ]
+        }
+    },
+    "/services/routeur": {
+        "titre": "Take your box everywhere with you and connect all your devices!",
+        "t1": "Encrypted VPN/TOR connection",
+        "p1": "Our router passes through encrypted tunnels and Tor relays, ensuring that your data remains secure and anonymous. These encrypted tunnels prevent any interception or surveillance of your communications by malicious third parties. Tor relays add an additional layer of protection by routing your traffic through multiple servers, making your online activity virtually impossible to trace",
+        "tag1": "Why use a VPN?",
+        "t2": "1Gb/s speed",
+        "p2": "Our router box offers ultra-fast Internet connection with a speed of 1 Gb/s. This guarantees exceptional download and upload speeds, ideal for bandwidth-intensive activities such as 4K streaming, online gaming, and remote work. Enjoy an uninterrupted Internet experience and optimal network performance thanks to our cutting-edge technology. Connect multiple devices without any problem!",
+        "t3": "Firewall",
+        "p3": "Our router integrates a robust firewall that provides enhanced protection against external threats. This firewall rigorously filters all incoming and outgoing traffic, preventing unauthorized connections and potential attacks before they reach your system. Additional protections have been integrated into the kernel, such as Kill Switch (prevents the disclosure of your IP address even if your VPN disconnects), IPv6 deactivation",
+        "t4": "Access restricted content",
+        "p4": "Our router box allows you to access restricted content with ease for all your devices. Thanks to advanced network features, you can bypass geographical restrictions and enjoy your favorite websites, streaming services, and other content, regardless of your location. Enjoy total freedom on the Internet and unlimited access to a variety of content thanks to our high-performance solution",
+        "t5": "Take it everywhere!",
+        "p5": "Thanks to its small size, our router box is designed to be easily transportable, allowing you to take it with you wherever you go. Whether you're on a business trip, on vacation, or visiting friends, you can benefit from a fast and secure Internet connection. Enjoy the convenience and flexibility of portable Internet access with our compact and high-performance router box",
+        "tarif": {
+            "titre": "Installation rate",
+            "value": [
+                "Encrypted VPN/TOR connection",
+                "1Gb/s speed",
+                "Protect all your devices!",
+                "Firewall",
+                "Kill Switch, IPv6 deactivation",
+                "Access restricted content safely!",
+                "Take your router box wherever you are!"
+            ]
+        }
+    }
+}

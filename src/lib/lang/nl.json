@@ -1,0 +1,439 @@
+{
+    "info": {
+        "secteur": [
+            "Bedrijf",
+            "Industrie",
+            "Openbare dienst",
+            "Privédienst"
+        ],
+        "rdv": "Een afspraak maken",
+        "contactme": "Neem contact met me op",
+        "slogan": "In een digitale wereld waar onze gegevens onze identiteit bepalen, is het beveiligen van je gegevens het behouden van je vrijheid."
+    },
+    "meta": {
+        "keywoards": [
+            "Cyberbeveiliging",
+            "Beveiligd apparaat",
+            "Privacybescherming",
+            "Informatica",
+            "Gedecentraliseerde netwerken",
+            "Geen telemetrie"
+        ],
+        "description": "Bescherm je privacy met CyberSafe Security"
+    },
+    "header": {
+        "page_label": [
+            "Home",
+            "Over ons",
+            "Diensten",
+            "Hoe jezelf beschermen?"
+        ]
+    },
+    "footer": {
+        "label": [
+            "Diensten",
+            "Sectoren"
+        ]
+    },
+    "fingerprint": {
+        "positive_os": "Gefeliciteerd, je gebruikt Linux!",
+        "negative_os": "schendt je privacy",
+        "tor_phrase": "Je gebruikt een Tor-relay",
+        "vpn_phrase": "Je gebruikt een VPN",
+        "notvpn_phrase": "Je moet een VPN gebruiken",
+        "btn_protect_phrase": "Bescherm je digitale vingerafdruk",
+        "devices_found": "Apparaten gevonden op je WiFi-netwerk"
+    },
+    "/": {
+        "heros": {
+            "title": "Je vrijheid hangt af van je privacy!",
+            "intro": "Beveilig al je apparaten!",
+            "btn": "Ik wil me beschermen!"
+        },
+        "about": {
+            "title": "Een besturingssysteem dat uw privacy",
+            "title_star": "respecteert!",
+            "card1_p1": "Ben je journalist, zelfstandige of gewoon een burger die controle wil houden over zijn privacy?",
+            "card1_p2": "Wil je je vrijheid terugkrijgen en je loskoppelen van de digitale giganten terwijl je je gegevens beschermt?",
+            "card1_p3": "Bescherm jezelf dan met CyberSafe Security",
+            "card2_p1": "Je systemen zijn gezuiverd van alle telemetrie. Maak je los van de tech-giganten. Je verbindingen gaan via versleutelde tunnels en Tor-relays. Communiceer met end-to-end versleutelde berichten!",
+            "card2_p2": "Alle applicaties draaien in virtuele sandboxes",
+            "card2_p3": "Herwin je vrijheid en surf anoniem op het internet!"
+        },
+        "features": {
+            "title": "Onze diensten om je te beschermen",
+            "description": "Bescherm al je apparaten!",
+            "ensavoirplus": "Meer weten",
+            "data": [
+                {
+                    "name": "Beveiligde computer",
+                    "description": "Beveiligd besturingssysteem, gezuiverd van alle telemetrie, volledige schijfversleuteling. Je verbindingen gaan via versleutelde tunnels. Applicaties draaien in virtuele sandboxes. Versleutelde berichten,...",
+                    "image": "/images/desktop-demo7.png",
+                    "tags": [
+                        {
+                            "label": "Meer weten",
+                            "redirect": "services/pc",
+                            "color": "secondary"
+                        }
+                    ]
+                },
+                {
+                    "name": "Beveiligingsaudit en Consultatie",
+                    "description": "Onze beveiligingsauditdienst helpt je bij het identificeren van kwetsbaarheden en potentiële bedreigingen in je computersystemen. Ontvang een gedetailleerd rapport met praktische aanbevelingen om je beveiliging te versterken. Profiteer ook van gespecialiseerde consultatie om een beveiligingsplan op maat van je behoeften op te stellen. Neem nu contact met me op om je audit te plannen en je cyberbeveiliging te verbeteren!",
+                    "image": "/images/auditsecurity-preview1.webp",
+                    "tags": [
+                        {
+                            "label": "Meer weten",
+                            "redirect": "services/consultation",
+                            "color": "secondary"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ontgooglede mobiele telefoon",
+                    "description": "Implementatie van een ontgooglede telefoon: geen telemetrie, versleutelde berichten. Ons besturingssysteem garandeert de bescherming van je privacy door Google-diensten en alle gegevensverzameling te elimineren. Stap over op een telefoon die je privacy respecteert en je totale gemoedsrust biedt.",
+                    "image": "/images/mobile-preview1.png",
+                    "tags": [
+                        {
+                            "label": "Telefoon niet inbegrepen (of op aanvraag)"
+                        },
+                        {
+                            "label": "Gratis anti-stralingshoes!",
+                            "color": "success"
+                        },
+                        {
+                            "label": "Gratis camerabedekking!",
+                            "color": "success"
+                        },
+                        {
+                            "label": "Meer weten",
+                            "redirect": "services/mobile",
+                            "color": "secondary"
+                        }
+                    ]
+                },
+                {
+                    "name": "Gedecentraliseerde cloudserver",
+                    "description": "Implementatie van een versleutelde en gedecentraliseerde cloudserver bij jou thuis om je foto's, video's, e-mails,... veilig op te slaan! Al je CyberSafe-apparaten kunnen verbinding maken met de cloudserver voor wekelijkse back-ups.",
+                    "image": "/images/nextcloud-preview1.webp",
+                    "tags": [
+                        {
+                            "label": "Ingebouwde firewall"
+                        },
+                        {
+                            "label": "4GB",
+                            "color": "success"
+                        },
+                        {
+                            "label": "8GB",
+                            "color": "success"
+                        },
+                        {
+                            "label": "SSD-schijf niet inbegrepen"
+                        },
+                        {
+                            "label": "Meer weten",
+                            "redirect": "services/cloud",
+                            "color": "secondary"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tor/VPN Wifi-routerbox",
+                    "description": "Neem je Tor/VPN Wifi-routerbox overal mee naartoe! Het biedt optimale beveiliging voor je internetverbinding door Tor- en VPN-technologieën te combineren. Je kunt al je apparaten zonder zorgen aansluiten. Bescherm je gegevens, krijg toegang tot beperkte inhoud en geniet van een veiligere internetverbinding!",
+                    "image": "/images/routeurboxpi-preview1.webp",
+                    "tags": [
+                        {
+                            "label": "1 Gb/s"
+                        },
+                        {
+                            "label": "Firewall"
+                        },
+                        {
+                            "label": "Tor-relay"
+                        },
+                        {
+                            "label": "VPN"
+                        },
+                        {
+                            "label": "Kill Switch"
+                        },
+                        {
+                            "label": "IPv6 uitgeschakeld"
+                        },
+                        {
+                            "label": "Meer weten",
+                            "redirect": "services/box-routeur",
+                            "color": "secondary"
+                        }
+                    ]
+                },
+                {
+                    "name": "Forensische analyse",
+                    "description": "Met onze forensische analysedienst versterk je de weerbaarheid van je apparaten. Identificeer, analyseer en verhelp snel beveiligingsincidenten. We verzamelen en onderzoeken digitaal bewijs om de oorsprong en omvang van aanvallen te bepalen.",
+                    "image": "/images/servicesenplus-preview1.png",
+                    "tags": [
+                        {
+                            "label": "Meer weten",
+                            "redirect": "services/analyse-forensique",
+                            "color": "secondary"
+                        }
+                    ]
+                }
+            ]
+        },
+        "blog": {
+            "title": "CyberSafe Security Blog",
+            "intro": "Gewijd aan computerbeveiliging, waar je diepgaande analyses, praktische adviezen en het laatste nieuws vindt om je gegevens te beschermen en je cyberbeveiliging te versterken!",
+            "btn": "Ik wil leren hoe ik mezelf kan beschermen!",
+            "alire": "Ook lezen",
+            "publierle": "Publiceren",
+            "modifierle": "Bewerken"
+        }
+    },
+    "/about": {
+        "titre": "CyberSafe Security is er om je te beschermen!",
+        "mission": {
+            "titre": "Wat is onze missie?",
+            "p1": "Bij CyberSafe Security is onze missie om zowel particulieren als bedrijven te beschermen tegen cyberbedreigingen door robuuste en betrouwbare beveiligingsoplossingen te bieden. We begrijpen het cruciale belang van cyberbeveiliging in een steeds meer verbonden wereld, waar de risico's voortdurend evolueren. Ons engagement gaat verder dan alleen bescherming; we streven er ook naar om gebruikers hun digitale vrijheid en volledige controle over hun apparaten terug te geven",
+            "p2": "We geloven sterk dat elk individu en elke organisatie het verdient om online te navigeren zonder angst voor compromittering of gegevensverlies. Daarvoor ontwikkelen we gepersonaliseerde beveiligingsstrategieën die voldoen aan de specifieke behoeften van onze klanten, anticiperend op potentiële bedreigingen en snel reagerend op incidenten",
+            "p3": "Naast onze geavanceerde beveiligingsoplossingen zetten we een punt van eer in het opleiden van onze klanten over de beste praktijken op het gebied van cyberbeveiliging. We bieden regelmatige trainingen en praktisch advies om hen te helpen hun eigen weerbaarheid tegen aanvallen te versterken. Ons doel is om een veiligere en betrouwbaardere digitale omgeving voor iedereen te creëren",
+            "p4": "We investeren voortdurend in onderzoek en ontwikkeling om aan de voorhoede van beveiligingstechnologieën te blijven. Door een proactieve aanpak te hanteren, streven we ernaar aanvallen te voorkomen voordat ze zich voordoen en een snelle respons te garanderen in geval van een incident. Ons team van experts is toegewijd aan het bieden van constante ondersteuning en het effectief oplossen van eventuele beveiligingsproblemen die zich kunnen voordoen",
+            "p5": "«We zijn vastbesloten om geavanceerde beveiligingsoplossingen te bieden om de vertrouwelijkheid, integriteit en beschikbaarheid van uw kritieke informatie te waarborgen»"
+        },
+        "valeur": {
+            "titre": "Onze waarden",
+            "t1": "Innovatie",
+            "p1": "We gebruiken de meest geavanceerde en innovatieve beschikbare technologieën om ervoor te zorgen dat we aan de voorhoede van cyberbeveiliging blijven, anticiperend en reagerend op opkomende bedreigingen met maximale efficiëntie",
+            "t2": "Open Source",
+            "p2": "We bevorderen het gebruik van open source-oplossingen om transparantie, veiligheid en flexibiliteit te garanderen. Door open source-projecten te adopteren en eraan bij te dragen, zorgen we ervoor dat onze tools voortdurend worden bijgewerkt en geverifieerd",
+            "t3": "Vertrouwen",
+            "p3": "We bouwen vertrouwensrelaties op met onze klanten door transparantie en vertrouwelijkheid te garanderen. Elke stap van het installatieproces wordt in detail beschreven om totaal begrip te garanderen en een vlekkeloze implementatie te verzekeren",
+            "t4": "Toewijding",
+            "p4": "We zetten ons in om een uitstekende service te bieden door alles in het werk te stellen om onze klanten tegen cyberdreigingen te beschermen. Onze prioriteit is het garanderen van verbeterde beveiliging en totale gemoedsrust"
+        },
+        "choix": {
+            "titre": "Waarom ons kiezen?",
+            "t1": "Erkende expertise",
+            "p1": "Onze specialisten zijn gecertificeerd en ervaren in de belangrijkste gebieden van cyberbeveiliging",
+            "t2": "Op maat gemaakte oplossingen",
+            "p2": "We passen onze diensten aan uw specifieke behoeften aan voor optimale bescherming",
+            "t3": "Voorbeeldige reactiviteit",
+            "p3": "We zijn 24/7 beschikbaar om te reageren op uw beveiligingsnoodgevallen en -incidenten",
+            "t4": "Een vertrouwenspartnerschap",
+            "p4": "We werken nauw met u samen om een robuuste verdediging tegen cyberdreigingen op te bouwen"
+        }
+    },
+    "/services/analyse": {
+        "titre": "Forensische Analyse: De Wetenschap van Digitaal Onderzoek Begrijpen en Gebruiken",
+        "intro": "Forensische analyse, ook wel digitale forensica of digitaal onderzoek genoemd, is een wetenschappelijke discipline gewijd aan het verzamelen, onderzoeken en analyseren van gegevens van computersystemen, netwerken, opslagmedia en digitale apparaten. Deze praktijk is essentieel voor het oplossen van beveiligingsincidenten",
+        "objectif": {
+            "titre": "De Doelstellingen van Forensische Analyse",
+            "t1": "Bewijsverzameling",
+            "p1": "Een van de belangrijkste doelen van forensische analyse is het verzamelen van digitaal bewijs. Dit omvat het herstellen van verwijderde bestanden, het analyseren van systeemlogboeken en het kopiëren van gegevens van harde schijven op een manier die hun integriteit bewaart",
+            "t2": "Identificatie en Toewijzing",
+            "p2": "Forensische analyse maakt het mogelijk om de daders van computerincidenten te identificeren en hun acties te begrijpen. Dit kan het traceren van IP-adressen, het onderzoeken van digitale vingerafdrukken en het analyseren van bestandsmetadata omvatten",
+            "tag2": "Hoe bescherm ik mijn vingerafdruk?",
+            "t3": "Preventie en Incidentrespons",
+            "p3": "Naast het reageren op incidenten nadat ze zijn opgetreden, speelt forensische analyse een cruciale rol bij het voorkomen van toekomstige incidenten. Door de methoden te analyseren die aanvallers gebruiken, kunnen klanten hun beveiligingssystemen versterken om soortgelijke aanvallen te voorkomen"
+        },
+        "etape": {
+            "titre": "De Stappen van Forensische Analyse",
+            "t1": "Voorbereiding",
+            "p1": "Voordat een onderzoek begint, is het essentieel om een gedetailleerd plan voor te bereiden. Dit omvat het identificeren van de doelstellingen van het onderzoek voor de klant, het definiëren van de benodigde middelen en het opzetten van de juiste tools en technieken,...",
+            "t2": "Identificatie",
+            "p2": "Deze stap bestaat uit het lokaliseren van relevante gegevens voor het onderzoek. Dit kan bestanden op harde schijven, netwerkcommunciatierecords, systeemlogboeken en andere typen digitale gegevens omvatten",
+            "t3": "Bewaring",
+            "p3": "Om de integriteit van het bewijs te garanderen, is het cruciaal om de gegevens op de juiste manier te bewaren. Dit omvat het maken van exacte kopieën (images) van opslagmedia en het gebruik van methoden om wijzigingen in de originele gegevens te voorkomen",
+            "t4": "Analyse",
+            "p4": "De analyse van de gegevens is de kern van het forensisch onderzoek. Dit kan het zoeken naar specifieke bestanden, het analyseren van transactielogboeken, het reconstrueren van gebeurtenissen uit het verleden en het identificeren van kwaadaardige software omvatten",
+            "t5": "Documentatie en Rapportage",
+            "p5": "Gedetailleerde documentatie is essentieel voor elk forensisch onderzoek. CyberSafe Security moet alle gevolgde stappen, gebruikte tools, verzamelde gegevens en verkregen resultaten vastleggen. Er wordt vaak een eindrapport gemaakt om de conclusies van het onderzoek duidelijk en beknopt te presenteren"
+        },
+        "tarif": {
+            "titre": "Tarief Forensische Analyse",
+            "value": [
+                "Complexiteit van het Incident",
+                "Aard van het Incident",
+                "Omvang van de Impact",
+                "Duur van de Analyse",
+                "Benodigde Tijd",
+                "Urgentie",
+                "Volume en Type Gegevens",
+                "Gegevensvolume",
+                "Type Gegevens"
+            ]
+        }
+    },
+    "/services/consultation": {
+        "titre": "Wat zijn Beveiligingsconsultatie en -audit?",
+        "intro": "Beveiligingsconsultatie en -audit zijn professionele diensten gericht op het evalueren, verbeteren en waarborgen van de veiligheid van computersystemen, netwerken en gegevens van een klant of organisatie. Deze diensten helpen bij het identificeren van kwetsbaarheden, het aanbevelen van corrigerende maatregelen en het verzekeren dat beveiligingspraktijken voldoen aan de geldende normen en regelgeving",
+        "objectif": {
+            "titre": "De Doelstellingen van Beveiligingsconsultatie en -audit",
+            "t1": "Contact Leggen met de Klant",
+            "p1": "Vóór elke consultatie is het cruciaal om effectieve communicatie met de klant tot stand te brengen om hun specifieke problemen en beveiligingsbehoeften te begrijpen. Deze stap maakt het mogelijk om de audit aan te passen en ervoor te zorgen dat de voorgestelde oplossingen precies aan de eisen van de klant voldoen",
+            "t2": "Identificatie van Kwetsbaarheden",
+            "p2": "Een van de belangrijkste doelstellingen van de beveiligingsaudit is het identificeren van kwetsbaarheden in computersystemen. Dit omvat het detecteren van zwakke punten in applicaties, netwerkconfiguraties en gegevensbeheerpraktijken",
+            "t3": "Continue Verbetering",
+            "p3": "Beveiligingsconsultatie is gericht op het verstrekken van aanbevelingen om beveiligingspraktijken continu te verbeteren. Dit omvat het updaten van beveiligingsbeleid, het trainen van personeel en het adopteren van nieuwe beveiligingstechnologieën"
+        },
+        "etape": {
+            "titre": "De Stappen van Beveiligingsconsultatie en -audit",
+            "t1": "Voorbereiding",
+            "p1": "De voorbereidingsfase omvat het definiëren van de auditdoelstellingen, het selecteren van methodologieën en tools, en het plannen van de nodige middelen voor de audit",
+            "t2": "Informatieverzameling",
+            "p2": "Deze stap bestaat uit het verzamelen van informatie over bestaande systemen, netwerken en beveiligingspraktijken. Dit kan interviews met de klant, het beoordelen van beveiligingsbeleidsdocumenten en het analyseren van systeemconfiguraties omvatten",
+            "t3": "Evaluatie en Analyse",
+            "p3": "Beveiligingsexperts analyseren de verzamelde informatie om kwetsbaarheden te identificeren en risico's te beoordelen. Deze analyse kan penetratietests, kwetsbaarheidsscans en het beoordelen van netwerkconfiguraties omvatten",
+            "t4": "Auditrapport",
+            "p4": "Er wordt een gedetailleerd auditrapport opgesteld, waarin de geïdentificeerde kwetsbaarheden, bijbehorende risico's en aanbevelingen voor corrigerende maatregelen worden beschreven. Dit rapport dient als basis voor strategische besluitvorming op het gebied van beveiliging"
+        },
+        "tarif": {
+            "titre": "Consultatietarief",
+            "value": [
+                "Initiële Consultatie",
+                "Gesprek met de Klant",
+                "Beoordeling van Huidige Beveiliging",
+                "Initieel Rapport",
+                "Beveiligingsaudit",
+                "Netwerkaudit",
+                "Webapplicatie-audit",
+                "Volledige Systeemaudit",
+                "Penetratietests",
+                "Externe Penetratietest",
+                "Interne Penetratietest",
+                "Applicatie Penetratietest"
+            ],
+            "btn": "Een consultatie plannen"
+        }
+    },
+    "/services/pc": {
+        "titre": "Wees beschermd waar u ook bent!",
+        "t1": "Volledige versleuteling en Secure Boot",
+        "p1": "Volledige versleuteling van uw harde schijf (LUKS LVM dm-crypt). Houd uw gegevens veilig in geval van diefstal! Handtekeningverificatie: Bij het opstarten controleert de UEFI-firmware de digitale handtekeningen van opstartbestanden, zoals het besturingssysteem en drivers. Deze handtekeningen moeten worden goedgekeurd en als veilig worden erkend",
+        "t2": "Isolatie van applicaties",
+        "p2": "Applicaties werken met beperkte rechten. Standaard hebben ze alleen toegang tot de bronnen die strikt noodzakelijk zijn voor hun werking, waardoor de mogelijkheden voor compromittering worden beperkt. Containers beperken de interacties van applicaties met het besturingssysteem, waardoor het risico op compromittering wordt verminderd. Dit proces zorgt ervoor dat de applicatie alles heeft wat het nodig heeft, onafhankelijk van het onderliggende systeem",
+        "t3": "Versleutelde berichten",
+        "p3": "Ons systeem integreert versleutelde berichtenservices, die de vertrouwelijkheid en veiligheid van al uw communicatie garanderen. Deze berichtenservices gebruiken end-to-end versleuteling. Electron Mail (een overlay van Proton Mail) die uw e-mails versleutelt in een lokale database (waardoor u uw e-mails zelfs offline kunt lezen!) en ook via Tor of proxy's kan werken",
+        "t4": "Versleutelde VPN/TOR-verbinding",
+        "p4": "Uw verbindingen gaan door versleutelde tunnels en Tor-relays, waardoor uw gegevens veilig en anoniem blijven. Deze versleutelde tunnels voorkomen onderschepping of surveillance van uw communicatie door kwaadwillende derden. Tor-relays voegen een extra beschermingslaag toe door uw verkeer via meerdere servers te routeren, waardoor uw online activiteit praktisch onmogelijk te traceren is. Bovendien zijn extra beschermingsmechanismen in de kernel geïntegreerd, zoals de Kill Switch, IPv6-deactivering en willekeurige generatie van MAC-adressen. Deze maatregelen voorkomen IPv6-, WebRTC- en DNS-lekken, terwijl ze beschermen tegen identificatie",
+        "tag4": "Waarom een VPN gebruiken?",
+        "t5": "Firewall",
+        "p5": "Ons ultra-beveiligde besturingssysteem integreert een robuuste firewall die versterkte bescherming biedt tegen externe bedreigingen. Deze firewall filtert streng al het inkomende en uitgaande verkeer, voorkomt ongeautoriseerde verbindingen en potentiële aanvallen voordat ze uw systeem bereiken. Dankzij geavanceerde filterregels beschermt het tegen inbraken, malware en hackpogingen, waardoor een veilige omgeving voor uw gegevens en applicaties wordt gegarandeerd",
+        "t6": "Geavanceerde netwerktools",
+        "p6": "Ons ultra-beveiligde besturingssysteem bevat een suite van geavanceerde netwerktools ontworpen om superieure controle en beheer van uw digitale omgeving te bieden. Onder deze tools vindt u de mogelijkheid om uw Wi-Fi-netwerk te scannen op indringers, waardoor u snel ongeautoriseerde apparaten kunt detecteren en elimineren. Naast de Wi-Fi-scan bieden we netwerkbewakingsopties waarmee u het verkeer in realtime kunt volgen, knelpunten kunt identificeren en netwerkprestaties kunt analyseren. U kunt ook aangepaste firewalls configureren en beheren, filterregels aanpassen aan uw specifieke behoeften en beveiligingslogs monitoren om verdachte activiteiten te detecteren!",
+        "t7": "Versleuteld notitieblok",
+        "p7": "Ons besturingssysteem integreert een versleuteld notitieblok, dat maximale veiligheid en vertrouwelijkheid biedt voor uw gevoelige informatie. Dit notitieblok gebruikt geavanceerde versleuteling om uw gegevens te beschermen en kan worden gesynchroniseerd op een end-to-end versleutelde gedecentraliseerde cloud bij u thuis! (CyberSafe cloud, Synology NAS, ...)",
+        "tag7": "CyberSafe cloud",
+        "t8": "Open Source Applicaties",
+        "p8": "Alle applicaties zijn open source om de veiligheid en flexibiliteit van uw ultra-beveiligde systeem te versterken. Met hun publiek toegankelijke broncode bieden deze applicaties volledige transparantie, waardoor u ervan verzekerd bent dat elke coderegel kan worden onderzocht en gecontroleerd op potentiële beveiligingslekken. Dit betekent dat u profiteert van de robuustheid van software die voortdurend wordt gecontroleerd en verbeterd door een wereldwijde gemeenschap van ontwikkelaars",
+        "tag8": "Open WAT?",
+        "t9": "Gezuiverd van alle telemetrie",
+        "p9": "Uw systeem is gezuiverd van alle telemetrie, u kiest voor een krachtige oplossing om de privacy en veiligheid van uw gegevens te versterken. De zuivering bestaat uit het elimineren of stoppen van de verzameling van gegevens met betrekking tot gedrag, prestaties en het gebruik van niet-geverifieerde diensten en/of software. Uw systeem is volledig de-gafam-iseerd! Herwin uw vrijheid!",
+        "tag9": "Waarom de-gafam-iseren?",
+        "tarif": {
+            "titre": "Installatietarief",
+            "value": [
+                "Volledige versleuteling harde schijf (LUKS LVM dm-crypt)",
+                "Secure Boot en beveiligde BIOS",
+                "Gezuiverd van alle telemetrie",
+                "Open Source Applicaties",
+                "Isolatie van applicaties in virtuele containers (geen directe interactie met het systeem)",
+                "Versleutelde berichten",
+                "Versleutelde VPN/TOR-verbinding",
+                "Kill Switch, IPv6-deactivering, willekeurige generatie van MAC-adressen (voor elke netwerkinterface)",
+                "Fysieke firewall geïntegreerd in de kernel en Applicatie Firewall",
+                "Geavanceerde netwerktools",
+                "Versleuteld notitieblok (mogelijkheid tot synchronisatie met een gedecentraliseerde cloud)",
+                "Mogelijkheid tot volledige systeemback-up op een gedecentraliseerde cloud",
+                "Geavanceerde sneltoetsen"
+            ]
+        }
+    },
+    "/services/mobile": {
+        "titre": "Stap over naar een telefoon die uw privacy respecteert en u totale gemoedsrust biedt",
+        "t1": "Volledige versleuteling en Secure Boot",
+        "p1": "Volledige versleuteling van uw telefoon. Houd uw gegevens veilig in geval van diefstal! Firmware-beveiliging, inclusief specifieke functies zoals firmware-verificatie om de integriteit en veiligheid ervan te waarborgen",
+        "t2": "Isolatie van applicaties",
+        "p2": "Applicaties werken met beperkte rechten. Standaard hebben ze alleen toegang tot de bronnen die strikt noodzakelijk zijn voor hun werking, waardoor de kans op compromittering wordt beperkt. Containers beperken de interacties van applicaties met het besturingssysteem, waardoor het risico op compromittering wordt verminderd. Dit proces zorgt ervoor dat de applicatie alles heeft wat het nodig heeft, onafhankelijk van het onderliggende systeem",
+        "t3": "Versleutelde berichten",
+        "p3": "Ons systeem integreert versleutelde berichtendiensten, die de vertrouwelijkheid en veiligheid van al uw communicatie garanderen. Deze berichtendiensten gebruiken end-to-end versleuteling. Communiceer met end-to-end versleutelde e-mails",
+        "t4": "Versleutelde VPN/TOR-verbinding",
+        "p4": "Uw verbindingen gaan via versleutelde tunnels en Tor-relays, waardoor uw gegevens veilig en anoniem blijven. Deze versleutelde tunnels voorkomen dat kwaadwillende derden uw communicatie onderscheppen of bespioneren. Tor-relays voegen een extra beschermingslaag toe door uw verkeer via meerdere servers te leiden, waardoor uw online activiteit praktisch onmogelijk te traceren is.",
+        "tag4": "Waarom een VPN gebruiken?",
+        "t5": "Open Source-applicaties",
+        "p5": "Alle applicaties zijn open source om de veiligheid en flexibiliteit van uw ultra-beveiligde systeem te versterken. Met hun publiek toegankelijke broncode bieden deze applicaties volledige transparantie, waardoor u de garantie heeft dat elke coderegel kan worden onderzocht en gecontroleerd op mogelijke beveiligingslekken. Dit betekent dat u profiteert van de robuustheid van software die voortdurend wordt gemonitord en verbeterd door een wereldwijde gemeenschap van ontwikkelaars",
+        "tag5": "Open WAT?",
+        "t6": "Gezuiverd van alle telemetrie",
+        "p6": "Uw systeem is gezuiverd van alle telemetrie, u kiest voor een krachtige oplossing om de vertrouwelijkheid en veiligheid van uw gegevens te versterken. Het zuiveren bestaat uit het elimineren of stoppen van de verzameling van gegevens met betrekking tot het gedrag, de prestaties en het gebruik van niet-geverifieerde diensten en/of software. Uw systeem is volledig ontdaan van Big Tech! Herwin uw vrijheid!",
+        "tag6": "Waarom ontdoen van Big Tech?",
+        "t7": "Anti-stralingshoes en camerabeschermer",
+        "p7": "Onze anti-stralingshoes is speciaal ontworpen om radiofrequentiesignalen en elektromagnetische golven die door elektronische apparaten worden uitgezonden te blokkeren. Door deze hoes te gebruiken, wordt u onvindbaar voor telefoonmasten die uw positie voortdurend volgen. De camerabeschermer is een onmisbaar accessoire om uw privacy te beschermen tegen visuele inbreuken. Het laat u toe de ingebouwde camera's van uw apparaten te bedekken wanneer u ze niet gebruikt. Gemakkelijk aan te brengen en te verwijderen, het heeft een slank en discreet ontwerp dat de esthetiek van uw apparaat niet aantast. Bovendien is het compatibel met de meeste apparaten met ingebouwde camera's",
+        "tarif": {
+            "titre": "Installatietarief",
+            "value": [
+                "Volledige harde schijf versleuteling",
+                "Secure Bootloader en firmware verificatie",
+                "Gezuiverd van alle telemetrie",
+                "Open Source-applicaties",
+                "Isolatie van applicaties in virtuele containers (geen directe interactie met het systeem)",
+                "Versleutelde berichten",
+                "Versleutelde VPN/TOR-verbinding",
+                "Kill Switch, IPv6-deactivering, willekeurige MAC-adresgeneratie (voor elke netwerkinterface)",
+                "Fysieke firewall geïntegreerd in de kernel en Applicatie Firewall",
+                "Mogelijkheid voor volledige systeemback-up op een gedecentraliseerde cloud"
+            ]
+        }
+    },
+    "/services/cloud": {
+        "titre": "Bewaar uw gegevens veilig bij u thuis!",
+        "t1": "End-to-end versleutelde gegevens",
+        "p1": "Al uw gegevens zijn end-to-end versleuteld op onze gedecentraliseerde server, voor maximale beveiliging en totale vertrouwelijkheid. Deze versleuteling beschermt uw gevoelige informatie tegen ongeautoriseerde toegang, zowel tijdens de overdracht als tijdens de opslag. Geniet van totale gemoedsrust wetende dat uw gegevens veilig en privé blijven dankzij onze geavanceerde versleutelingstechnologie",
+        "t2": "Gegevensvertrouwelijkheid",
+        "p2": "Gegevensvertrouwelijkheid is onze hoogste prioriteit. Uw informatie wordt nooit gedeeld met derden, waardoor u absolute controle over uw gegevens heeft. U kunt met een gerust hart surfen, communiceren en werken, wetende dat uw gegevens strikt vertrouwelijk en veilig blijven, alleen toegankelijk voor u. U host, u controleert!",
+        "t3": "Versleutelde tunnel",
+        "p3": "Uw CyberSafe-apparaten gebruiken versleutelde tunnels om toegang te krijgen tot de cloudserver, waardoor de veiligheid en vertrouwelijkheid van uw gegevens worden gegarandeerd. Deze cryptografische tunnels beschermen uw informatie tegen onderschepping en ongeautoriseerde toegang, zodat u uw gegevens met een gerust hart kunt overdragen en opslaan. Geniet van een veilige en betrouwbare verbinding, verzekerd door onze geavanceerde versleutelingstechnologie, voor al uw cloudoperaties",
+        "t4": "Toegang vanaf overal waar u bent!",
+        "p4": "Zelfs als u lokaal thuis host, kunt u dankzij onze versleutelde tunneltechnologie overal toegang krijgen tot uw gegevens. Of u nu onderweg bent of thuis, uw informatie is altijd binnen handbereik en beveiligd tegen ongeautoriseerde toegang. Geniet van de vrijheid en flexibiliteit van een veilige verbinding met uw gegevens, ongeacht uw locatie",
+        "t5": "Vrijheid om de server te configureren en aan te passen aan uw specifieke behoeften",
+        "p5": "Pas uw cloud aan uw specifieke behoeften aan met onze flexibele en veilige oplossingen. Configureer uw opslagruimtes, beheer toegang en rechten, en kies beveiligingsniveaus die aan uw eisen voldoen. Met onze intuïtieve interface heeft u volledige controle om een cloudomgeving te creëren die perfect aan uw verwachtingen voldoet!",
+        "tarif": {
+            "titre": "Installatietarief",
+            "value": [
+                "End-to-end versleutelde gegevens",
+                "Gegevenscontrole en -eigendom",
+                "Vertrouwelijkheid en veiligheid",
+                "Zelf hosten",
+                "Versleutelde verbinding",
+                "Overal toegankelijk waar u bent!",
+                "Zeer aanpasbaar"
+            ]
+        }
+    },
+    "/services/routeur": {
+        "titre": "Neem uw box overal mee en verbind al uw apparaten!",
+        "t1": "Versleutelde VPN/TOR-verbinding",
+        "p1": "Onze router gaat via versleutelde tunnels en Tor-relays, waardoor uw gegevens veilig en anoniem blijven. Deze versleutelde tunnels voorkomen dat kwaadwillende derden uw communicatie onderscheppen of bespioneren. Tor-relays voegen een extra beschermingslaag toe door uw verkeer via meerdere servers te leiden, waardoor uw online activiteit praktisch onmogelijk te traceren is",
+        "tag1": "Waarom een VPN gebruiken?",
+        "t2": "1Gb/s snelheid",
+        "p2": "Onze router box biedt een ultrasnelle internetverbinding met een snelheid van 1 Gb/s. Dit garandeert u uitzonderlijke download- en uploadsnelheden, ideaal voor bandbreedte-intensieve activiteiten zoals 4K-streaming, online gaming en telewerken. Geniet van een ononderbroken internetervaring en optimale netwerkprestaties dankzij onze geavanceerde technologie. Verbind meerdere apparaten zonder problemen!",
+        "t3": "Firewall",
+        "p3": "Onze router integreert een robuuste firewall die versterkte bescherming biedt tegen externe bedreigingen. Deze firewall filtert streng al het inkomende en uitgaande verkeer, en verhindert ongeautoriseerde verbindingen en potentiële aanvallen voordat ze uw systeem bereiken. Extra beschermingen zijn geïntegreerd in de kernel, zoals de Kill Switch (voorkomt het lekken van uw IP-adres zelfs als uw VPN wordt verbroken), IPv6-deactivering",
+        "t4": "Toegang tot beperkte inhoud",
+        "p4": "Onze router box geeft u eenvoudig toegang tot beperkte inhoud voor al uw apparaten. Dankzij geavanceerde netwerkfuncties kunt u geografische beperkingen omzeilen en genieten van uw favoriete websites, streamingdiensten en andere inhoud, ongeacht uw locatie. Geniet van totale vrijheid op internet en onbeperkte toegang tot een verscheidenheid aan inhoud dankzij onze hoogwaardige oplossing",
+        "t5": "Neem het overal mee!",
+        "p5": "Dankzij zijn kleine formaat is onze router box ontworpen om gemakkelijk mee te nemen, waardoor u hem overal mee naartoe kunt nemen. Of u nu op zakenreis bent, op vakantie, of bij vrienden, u kunt genieten van een snelle en veilige internetverbinding. Profiteer van het gemak en de flexibiliteit van draagbare internettoegang met onze compacte en krachtige router box",
+        "tarif": {
+            "titre": "Installatietarief",
+            "value": [
+                "Versleutelde VPN/TOR-verbinding",
+                "1Gb/s snelheid",
+                "Bescherm al uw apparaten!",
+                "Firewall",
+                "Kill Switch, IPv6-deactivering",
+                "Veilig toegang tot beperkte inhoud!",
+                "Neem uw router box overal mee waar u bent!"
+            ]
+        }
+    }
+}

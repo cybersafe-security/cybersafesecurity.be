@@ -1,0 +1,439 @@
+{
+    "info": {
+        "secteur": [
+            "Unternehmen",
+            "Industrie",
+            "Öffentlicher Dienst",
+            "Privater Dienst"
+        ],
+        "rdv": "Termin vereinbaren",
+        "contactme": "Kontaktieren Sie mich",
+        "slogan": "In einer digitalen Welt, in der unsere Daten unsere Identität wert sind, bedeutet die Sicherung unserer Daten den Schutz unserer Freiheit."
+    },
+    "meta": {
+        "keywoards": [
+            "Cybersicherheit",
+            "Sicheres Gerät",
+            "Datenschutz",
+            "Informatik",
+            "Dezentralisierte Netzwerke",
+            "Keine Telemetrie"
+        ],
+        "description": "Schützen Sie Ihre Privatsphäre mit CyberSafe Security"
+    },
+    "header": {
+        "page_label": [
+            "Startseite",
+            "Über uns",
+            "Dienstleistungen",
+            "Wie kann man sich schützen?"
+        ]
+    },
+    "footer": {
+        "label": [
+            "Dienstleistungen",
+            "Sektoren"
+        ]
+    },
+    "fingerprint": {
+        "positive_os": "Bravo, Sie verwenden Linux!",
+        "negative_os": "verletzt Ihre Privatsphäre",
+        "tor_phrase": "Sie verwenden einen Tor-Relay",
+        "vpn_phrase": "Sie verwenden ein VPN",
+        "notvpn_phrase": "Sie sollten ein VPN verwenden",
+        "btn_protect_phrase": "Schützen Sie Ihren digitalen Fingerabdruck",
+        "devices_found": "Gefundene Geräte in Ihrem WLAN-Netzwerk"
+    },
+    "/": {
+        "heros": {
+            "title": "Ihre Freiheit hängt von Ihrer Privatsphäre ab!",
+            "intro": "Sichern Sie alle Ihre Geräte!",
+            "btn": "Ich möchte mich schützen!"
+        },
+        "about": {
+            "title": "Ein Betriebssystem, das Ihre Privatsphäre",
+            "title_star": "respektiert!",
+            "card1_p1": "Sind Sie Journalist, Selbstständiger oder einfach ein Bürger, der die Kontrolle über seine Privatsphäre behalten möchte?",
+            "card1_p2": "Möchten Sie Ihre Freiheit zurückgewinnen und sich von den digitalen Giganten abkoppeln, während Sie Ihre Daten schützen?",
+            "card1_p3": "Dann schützen Sie sich mit CyberSafe Security",
+            "card2_p1": "Ihre Systeme sind von jeglicher Telemetrie bereinigt. Entgooglen Sie sich. Ihre Verbindungen laufen über verschlüsselte Tunnel und Tor-Relays. Kommunizieren Sie mit Ende-zu-Ende verschlüsselten Messaging-Diensten!",
+            "card2_p2": "Alle Anwendungen laufen in virtuellen Sandboxen",
+            "card2_p3": "Gewinnen Sie Ihre Freiheit zurück und surfen Sie anonym im Internet!"
+        },
+        "features": {
+            "title": "Unsere Dienste zu Ihrem Schutz",
+            "description": "Schützen Sie alle Ihre Geräte!",
+            "ensavoirplus": "Mehr erfahren",
+            "data": [
+                {
+                    "name": "Gesicherter Computer",
+                    "description": "Gesichertes Betriebssystem, von jeglicher Telemetrie bereinigt, vollständige Festplattenverschlüsselung. Ihre Verbindungen laufen über verschlüsselte Tunnel. Anwendungen laufen in virtuellen Sandboxen. Verschlüsselte Messaging-Dienste,...",
+                    "image": "/images/desktop-demo7.png",
+                    "tags": [
+                        {
+                            "label": "Mehr erfahren",
+                            "redirect": "services/pc",
+                            "color": "secondary"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sicherheitsaudit und Beratung",
+                    "description": "Unser Sicherheitsaudit-Service hilft Ihnen, Schwachstellen und potenzielle Bedrohungen in Ihren IT-Systemen zu identifizieren. Erhalten Sie einen detaillierten Bericht mit praktischen Empfehlungen zur Verbesserung Ihrer Sicherheit. Profitieren Sie auch von einer spezialisierten Beratung zur Entwicklung eines maßgeschneiderten Sicherheitsplans für Ihre Bedürfnisse. Kontaktieren Sie mich jetzt, um Ihr Audit zu planen und Ihre Cybersicherheit zu verbessern!",
+                    "image": "/images/auditsecurity-preview1.webp",
+                    "tags": [
+                        {
+                            "label": "Mehr erfahren",
+                            "redirect": "services/consultation",
+                            "color": "secondary"
+                        }
+                    ]
+                },
+                {
+                    "name": "Entgoogletes Mobiltelefon",
+                    "description": "Einrichtung eines entgoogleten Telefons: keine Telemetrie, verschlüsselte Messaging-Dienste. Unser Betriebssystem garantiert den Schutz Ihrer Privatsphäre, indem es Google-Dienste und jegliche Datenerfassung eliminiert. Wechseln Sie zu einem Telefon, das Ihre Privatsphäre respektiert und Ihnen völlige Ruhe bietet.",
+                    "image": "/images/mobile-preview1.png",
+                    "tags": [
+                        {
+                            "label": "Telefon nicht inbegriffen (oder auf Anfrage)"
+                        },
+                        {
+                            "label": "Anti-Strahlungs-Tasche inklusive!",
+                            "color": "success"
+                        },
+                        {
+                            "label": "Kamera-Abdeckung inklusive!",
+                            "color": "success"
+                        },
+                        {
+                            "label": "Mehr erfahren",
+                            "redirect": "services/mobile",
+                            "color": "secondary"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dezentraler Cloud-Server",
+                    "description": "Einrichtung eines verschlüsselten und dezentralen Cloud-Servers, der bei Ihnen zu Hause gehostet wird, um Ihre Fotos, Videos, E-Mails,... sicher zu speichern! Alle Ihre CyberSafe-Geräte können sich mit dem Cloud-Server verbinden, um wöchentliche Backups durchzuführen.",
+                    "image": "/images/nextcloud-preview1.webp",
+                    "tags": [
+                        {
+                            "label": "Integrierte Firewall"
+                        },
+                        {
+                            "label": "4GB",
+                            "color": "success"
+                        },
+                        {
+                            "label": "8GB",
+                            "color": "success"
+                        },
+                        {
+                            "label": "SSD-Festplatte nicht inbegriffen"
+                        },
+                        {
+                            "label": "Mehr erfahren",
+                            "redirect": "services/cloud",
+                            "color": "secondary"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tor/VPN WLAN-Router-Box",
+                    "description": "Nehmen Sie Ihre Tor/VPN WLAN-Router-Box überall mit! Sie bietet optimale Sicherheit für Ihre Internetverbindung durch die Kombination von Tor- und VPN-Technologien. Sie können alle Ihre Geräte problemlos anschließen. Schützen Sie Ihre Daten, greifen Sie auf eingeschränkte Inhalte zu und genießen Sie eine sicherere Internetverbindung!",
+                    "image": "/images/routeurboxpi-preview1.webp",
+                    "tags": [
+                        {
+                            "label": "1 Gb/s"
+                        },
+                        {
+                            "label": "Firewall"
+                        },
+                        {
+                            "label": "Tor-Relay"
+                        },
+                        {
+                            "label": "VPN"
+                        },
+                        {
+                            "label": "Kill Switch"
+                        },
+                        {
+                            "label": "IPV6 deaktiviert"
+                        },
+                        {
+                            "label": "Mehr erfahren",
+                            "redirect": "services/box-routeur",
+                            "color": "secondary"
+                        }
+                    ]
+                },
+                {
+                    "name": "Forensische Analyse",
+                    "description": "Mit unserem forensischen Analysedienst stärken Sie die Widerstandsfähigkeit Ihrer Geräte. Identifizieren, analysieren und beheben Sie Sicherheitsvorfälle schnell. Wir sammeln und untersuchen digitale Beweise, um den Ursprung und das Ausmaß von Angriffen zu bestimmen.",
+                    "image": "/images/servicesenplus-preview1.png",
+                    "tags": [
+                        {
+                            "label": "Mehr erfahren",
+                            "redirect": "services/analyse-forensique",
+                            "color": "secondary"
+                        }
+                    ]
+                }
+            ]
+        },
+        "blog": {
+            "title": "CyberSafe Security Blog",
+            "intro": "Dem Thema IT-Sicherheit gewidmet, wo Sie tiefgehende Analysen, praktische Tipps und die neuesten Nachrichten zum Schutz Ihrer Daten und zur Stärkung Ihrer Cybersicherheit finden!",
+            "btn": "Ich möchte lernen, mich zu schützen!",
+            "alire": "Auch lesen",
+            "publierle": "Veröffentlichen",
+            "modifierle": "Bearbeiten"
+        }
+    },
+    "/about": {
+        "titre": "CyberSafe Security ist hier, um Sie zu schützen!",
+        "mission": {
+            "titre": "Was ist unsere Mission?",
+            "p1": "Bei CyberSafe Security ist es unsere Mission, sowohl Privatpersonen als auch Unternehmen vor Cyber-Bedrohungen zu schützen, indem wir robuste und zuverlässige Sicherheitslösungen anbieten. Wir verstehen die entscheidende Bedeutung der Cybersicherheit in einer zunehmend vernetzten Welt, in der sich die Risiken ständig weiterentwickeln. Unser Engagement geht über den bloßen Schutz hinaus; wir bemühen uns auch darum, den Nutzern ihre digitale Freiheit und vollständige Kontrolle über ihre Geräte zurückzugeben",
+            "p2": "Wir glauben fest daran, dass jeder Einzelne und jede Organisation es verdient, online zu navigieren, ohne Angst vor Kompromittierung oder Datenverlust zu haben. Zu diesem Zweck entwickeln wir maßgeschneiderte Sicherheitsstrategien, die den spezifischen Bedürfnissen unserer Kunden entsprechen, potenzielle Bedrohungen antizipieren und schnell auf Vorfälle reagieren",
+            "p3": "Zusätzlich zu unseren fortschrittlichen Sicherheitslösungen legen wir großen Wert darauf, unsere Kunden über die besten Praktiken im Bereich der Cybersicherheit aufzuklären. Wir bieten regelmäßige Schulungen und praktische Ratschläge, um ihnen zu helfen, ihre eigene Widerstandsfähigkeit gegenüber Angriffen zu stärken. Unser Ziel ist es, eine sicherere und zuverlässigere digitale Umgebung für alle zu schaffen",
+            "p4": "Wir investieren kontinuierlich in Forschung und Entwicklung, um an der Spitze der Sicherheitstechnologien zu bleiben. Mit einem proaktiven Ansatz zielen wir darauf ab, Angriffe zu verhindern, bevor sie auftreten, und eine schnelle Reaktion im Falle eines Vorfalls zu gewährleisten. Unser Expertenteam ist darauf ausgerichtet, konstante Unterstützung zu bieten und alle auftretenden Sicherheitsprobleme effizient zu lösen",
+            "p5": "«Wir sind entschlossen, modernste Sicherheitslösungen bereitzustellen, um die Vertraulichkeit, Integrität und Verfügbarkeit Ihrer kritischen Informationen zu gewährleisten»"
+        },
+        "valeur": {
+            "titre": "Unsere Werte",
+            "t1": "Innovation",
+            "p1": "Wir setzen die fortschrittlichsten und innovativsten verfügbaren Technologien ein, um sicherzustellen, dass wir an der Spitze der Cybersicherheit bleiben und aufkommende Bedrohungen mit maximaler Effizienz antizipieren und darauf reagieren",
+            "t2": "Open Source",
+            "p2": "Wir fördern die Nutzung von Open-Source-Lösungen, um Transparenz, Sicherheit und Flexibilität zu gewährleisten. Durch die Annahme und den Beitrag zu Open-Source-Projekten stellen wir sicher, dass unsere Tools ständig aktualisiert und überprüft werden",
+            "t3": "Vertrauen",
+            "p3": "Wir bauen Vertrauensbeziehungen zu unseren Kunden auf, indem wir Transparenz und Vertraulichkeit garantieren. Jeder Schritt des Installationsprozesses wird detailliert beschrieben, um ein vollständiges Verständnis zu gewährleisten und eine tadellose Implementierung sicherzustellen",
+            "t4": "Engagement",
+            "p4": "Wir verpflichten uns, einen exzellenten Service zu bieten, indem wir alles tun, um unsere Kunden vor Cyber-Bedrohungen zu schützen. Unsere Priorität ist es, verstärkte Sicherheit und völlige Ruhe zu garantieren"
+        },
+        "choix": {
+            "titre": "Warum uns wählen?",
+            "t1": "Anerkannte Expertise",
+            "p1": "Unsere Spezialisten sind zertifiziert und erfahren in den Schlüsselbereichen der Cybersicherheit",
+            "t2": "Maßgeschneiderte Lösungen",
+            "p2": "Wir passen unsere Dienstleistungen an Ihre spezifischen Bedürfnisse an, um optimalen Schutz zu gewährleisten",
+            "t3": "Vorbildliche Reaktionsfähigkeit",
+            "p3": "Wir sind rund um die Uhr verfügbar, um auf Ihre Notfälle und Sicherheitsvorfälle zu reagieren",
+            "t4": "Eine vertrauensvolle Partnerschaft",
+            "p4": "Wir arbeiten eng mit Ihnen zusammen, um eine robuste Verteidigung gegen Cyber-Bedrohungen aufzubauen"
+        }
+    },
+    "/services/analyse": {
+        "titre": "Forensische Analyse: Verstehen und Nutzen der digitalen Untersuchungswissenschaft",
+        "intro": "Forensische Analyse, auch als digitale Forensik oder digitale Untersuchung bekannt, ist eine wissenschaftliche Disziplin, die sich der Sammlung, Untersuchung und Analyse von Daten aus Computersystemen, Netzwerken, Speichermedien und digitalen Geräten widmet. Diese Praxis ist entscheidend für die Lösung von Sicherheitsvorfällen",
+        "objectif": {
+            "titre": "Die Ziele der forensischen Analyse",
+            "t1": "Beweissammlung",
+            "p1": "Eines der Hauptziele der forensischen Analyse ist die Sammlung digitaler Beweise. Dies umfasst die Wiederherstellung gelöschter Dateien, die Analyse von Systemprotokollen und das Kopieren von Festplattendaten auf eine Weise, die ihre Integrität bewahrt",
+            "t2": "Identifizierung und Zuordnung",
+            "p2": "Die forensische Analyse ermöglicht die Identifizierung der Urheber von Computervorfällen und das Verständnis ihrer Handlungen. Dies kann die Rückverfolgung von IP-Adressen, die Untersuchung digitaler Fingerabdrücke und die Analyse von Dateimetadaten umfassen",
+            "tag2": "Wie schütze ich meinen Fingerabdruck?",
+            "t3": "Prävention und Vorfallsreaktion",
+            "p3": "Neben der Reaktion auf Vorfälle nach ihrem Auftreten spielt die forensische Analyse eine entscheidende Rolle bei der Prävention zukünftiger Vorfälle. Durch die Analyse der von Angreifern verwendeten Methoden können Kunden ihre Sicherheitssysteme verstärken, um ähnliche Angriffe zu verhindern"
+        },
+        "etape": {
+            "titre": "Die Schritte der forensischen Analyse",
+            "t1": "Vorbereitung",
+            "p1": "Bevor eine Untersuchung beginnt, ist es wichtig, einen detaillierten Plan vorzubereiten. Dies umfasst die Identifizierung der Untersuchungsziele für den Kunden, die Definition der erforderlichen Ressourcen und die Einrichtung geeigneter Werkzeuge und Techniken...",
+            "t2": "Identifizierung",
+            "p2": "Dieser Schritt besteht darin, relevante Daten für die Untersuchung zu lokalisieren. Dies kann Dateien auf Festplatten, Aufzeichnungen von Netzwerkkommunikationen, Systemprotokolle und andere Arten von digitalen Daten umfassen",
+            "t3": "Bewahrung",
+            "p3": "Um die Integrität der Beweise zu gewährleisten, ist es entscheidend, die Daten angemessen zu bewahren. Dies umfasst die Erstellung exakter Kopien (Images) von Speichermedien und die Verwendung von Methoden, um jegliche Änderung der Originaldaten zu verhindern",
+            "t4": "Analyse",
+            "p4": "Die Datenanalyse ist das Herzstück der forensischen Untersuchung. Dies kann die Suche nach spezifischen Dateien, die Analyse von Transaktionsprotokollen, die Rekonstruktion vergangener Ereignisse und die Identifizierung von Malware umfassen",
+            "t5": "Dokumentation und Berichterstattung",
+            "p5": "Eine detaillierte Dokumentation ist für jede forensische Untersuchung unerlässlich. CyberSafe Security muss alle befolgten Schritte, verwendeten Werkzeuge, gesammelten Daten und erzielten Ergebnisse aufzeichnen. Ein Abschlussbericht wird oft erstellt, um die Untersuchungsergebnisse klar und präzise zu präsentieren"
+        },
+        "tarif": {
+            "titre": "Tarif für forensische Analyse",
+            "value": [
+                "Komplexität des Vorfalls",
+                "Art des Vorfalls",
+                "Umfang der Auswirkungen",
+                "Dauer der Analyse",
+                "Benötigte Zeit",
+                "Dringlichkeit",
+                "Datenvolumen und -typ",
+                "Datenvolumen",
+                "Datentyp"
+            ]
+        }
+    },
+    "/services/consultation": {
+        "titre": "Was ist Sicherheitsberatung und -audit?",
+        "intro": "Sicherheitsberatung und -audit sind professionelle Dienstleistungen zur Bewertung, Verbesserung und Gewährleistung der Sicherheit von Computersystemen, Netzwerken und Daten eines Kunden oder einer Organisation. Diese Dienste ermöglichen es, Schwachstellen zu identifizieren, Korrekturmaßnahmen zu empfehlen und sicherzustellen, dass die Sicherheitspraktiken den geltenden Standards und Vorschriften entsprechen",
+        "objectif": {
+            "titre": "Die Ziele der Sicherheitsberatung und -audits",
+            "t1": "Kontaktaufnahme mit dem Kunden",
+            "p1": "Vor jeder Beratung ist es entscheidend, eine effektive Kommunikation mit dem Kunden aufzubauen, um seine spezifischen Probleme und Sicherheitsanforderungen zu verstehen. Dieser Schritt ermöglicht es, das Audit zu personalisieren und sicherzustellen, dass die vorgeschlagenen Lösungen genau den Anforderungen des Kunden entsprechen",
+            "t2": "Identifizierung von Schwachstellen",
+            "p2": "Eines der Hauptziele des Sicherheitsaudits ist die Identifizierung von Schwachstellen in Computersystemen. Dies umfasst die Erkennung von Schwachstellen in Anwendungen, Netzwerkkonfigurationen und Datenverwaltungspraktiken",
+            "t3": "Kontinuierliche Verbesserung",
+            "p3": "Die Sicherheitsberatung zielt darauf ab, Empfehlungen zur kontinuierlichen Verbesserung der Sicherheitspraktiken zu geben. Dies umfasst die Aktualisierung von Sicherheitsrichtlinien, die Schulung des Personals und die Einführung neuer Sicherheitstechnologien"
+        },
+        "etape": {
+            "titre": "Die Schritte der Sicherheitsberatung und -audits",
+            "t1": "Vorbereitung",
+            "p1": "Die Vorbereitungsphase umfasst die Definition der Auditziele, die Auswahl der Methoden und Werkzeuge sowie die Planung der für das Audit erforderlichen Ressourcen",
+            "t2": "Informationssammlung",
+            "p2": "Dieser Schritt besteht darin, Informationen über bestehende Systeme, Netzwerke und Sicherheitspraktiken zu sammeln. Dies kann Interviews mit dem Kunden, die Überprüfung von Sicherheitsrichtlinien-Dokumenten und die Analyse von Systemkonfigurationen umfassen",
+            "t3": "Bewertung und Analyse",
+            "p3": "Sicherheitsexperten analysieren die gesammelten Informationen, um Schwachstellen zu identifizieren und Risiken zu bewerten. Diese Analyse kann Penetrationstests, Schwachstellenscans und die Überprüfung von Netzwerkkonfigurationen umfassen",
+            "t4": "Auditbericht",
+            "p4": "Ein detaillierter Auditbericht wird erstellt, der die identifizierten Schwachstellen, die damit verbundenen Risiken und Empfehlungen für Korrekturmaßnahmen beschreibt. Dieser Bericht dient als Grundlage für strategische Entscheidungen im Bereich der Sicherheit"
+        },
+        "tarif": {
+            "titre": "Beratungstarif",
+            "value": [
+                "Erstberatung",
+                "Kundengespräch",
+                "Bewertung der aktuellen Sicherheit",
+                "Erster Bericht",
+                "Sicherheitsaudit",
+                "Netzwerkaudit",
+                "Web-Anwendungsaudit",
+                "Umfassendes Systemaudit",
+                "Penetrationstests",
+                "Externer Penetrationstest",
+                "Interner Penetrationstest",
+                "Anwendungs-Penetrationstest"
+            ],
+            "btn": "Eine Beratung vereinbaren"
+        }
+    },
+    "/services/pc": {
+        "titre": "Wechseln Sie zu einem Computer, der Ihre Privatsphäre respektiert und Ihnen völlige Seelenruhe bietet",
+        "t1": "Vollständige Verschlüsselung und Secure Boot",
+        "p1": "Vollständige Verschlüsselung Ihrer Festplatte. Bewahren Sie Ihre Daten im Falle eines Diebstahls sicher auf! Firmware-Sicherheit, einschließlich spezifischer Funktionen wie Firmware-Verifizierung zur Gewährleistung ihrer Integrität und Sicherheit",
+        "t2": "Isolierung von Anwendungen",
+        "p2": "Anwendungen laufen mit eingeschränkten Berechtigungen. Standardmäßig haben sie nur Zugriff auf die für ihre Funktion unbedingt erforderlichen Ressourcen, wodurch die Möglichkeiten einer Kompromittierung begrenzt werden. Container begrenzen die Interaktionen der Anwendungen mit dem Betriebssystem und reduzieren so das Risiko einer Kompromittierung. Dieser Prozess stellt sicher, dass die Anwendung alles hat, was sie braucht, unabhängig vom zugrunde liegenden System",
+        "t3": "Verschlüsselte Nachrichten",
+        "p3": "Unser System integriert verschlüsselte Nachrichtendienste, die die Vertraulichkeit und Sicherheit all Ihrer Kommunikation garantieren. Diese Nachrichtendienste verwenden Ende-zu-Ende-Verschlüsselung. Kommunizieren Sie mit Ende-zu-Ende-verschlüsselten E-Mails",
+        "t4": "Verschlüsselte VPN/TOR-Verbindung",
+        "p4": "Ihre Verbindungen laufen durch verschlüsselte Tunnel und Tor-Relais, wodurch sichergestellt wird, dass Ihre Daten sicher und anonym bleiben. Diese verschlüsselten Tunnel verhindern jegliches Abfangen oder Überwachen Ihrer Kommunikation durch böswillige Dritte. Tor-Relais fügen eine zusätzliche Schutzschicht hinzu, indem sie Ihren Datenverkehr über mehrere Server leiten und Ihre Online-Aktivität praktisch unmöglich zu verfolgen machen.",
+        "tag4": "Warum ein VPN verwenden?",
+        "t5": "Open-Source-Anwendungen",
+        "p5": "Alle Anwendungen sind Open Source, um die Sicherheit und Flexibilität Ihres hochsicheren Systems zu stärken. Mit ihrem öffentlich zugänglichen Quellcode bieten diese Anwendungen vollständige Transparenz und garantieren Ihnen, dass jede Codezeile auf potenzielle Sicherheitslücken untersucht und überprüft werden kann. Dies bedeutet, dass Sie von der Robustheit einer Software profitieren, die ständig von einer weltweiten Entwicklergemeinschaft überwacht und verbessert wird",
+        "tag5": "Open WAS?",
+        "t6": "Von jeglicher Telemetrie bereinigt",
+        "p6": "Ihr System ist von jeglicher Telemetrie bereinigt, Sie entscheiden sich für eine leistungsstarke Lösung zur Stärkung der Vertraulichkeit und Sicherheit Ihrer Daten. Die Bereinigung besteht darin, die Erfassung von Daten zu Verhalten, Leistung und Nutzung nicht verifizierter Dienste und/oder Software zu eliminieren oder zu stoppen. Ihr System ist vollständig von großen Technologieunternehmen befreit! Gewinnen Sie Ihre Freiheit zurück!",
+        "tag6": "Warum sich von großen Technologieunternehmen befreien?",
+        "t7": "Erweiterte Netzwerktools",
+        "p7": "Unser System ist mit erweiterten Netzwerktools ausgestattet, die Ihnen volle Kontrolle über Ihre Verbindungen geben. Diese Tools bieten fortschrittliche Funktionen wie Paketfilterung, Netzwerkverkehrsanalyse und sichere Tunneling. Sie können Ihre Netzwerkaktivität genau überwachen, potenzielle Bedrohungen identifizieren und Ihre Verbindungen für maximale Leistung und Sicherheit optimieren",
+        "t8": "Verschlüsseltes Notizbuch",
+        "p8": "Unser System enthält ein verschlüsseltes Notizbuch, mit dem Sie Ihre Ideen, Notizen und sensiblen Informationen sicher speichern können. Dieses Notizbuch verwendet Ende-zu-Ende-Verschlüsselung, um die Vertraulichkeit Ihrer Daten zu gewährleisten. Sie können es mit einer dezentralisierten Cloud synchronisieren, um von all Ihren Geräten aus einfach darauf zugreifen zu können, während Sie die volle Kontrolle über Ihre Daten behalten",
+        "t9": "Von jeglicher Telemetrie bereinigt",
+        "p9": "Ihr System ist von jeglicher Telemetrie bereinigt, Sie entscheiden sich für eine leistungsstarke Lösung zur Stärkung der Vertraulichkeit und Sicherheit Ihrer Daten. Die Bereinigung besteht darin, die Erfassung von Daten zu Verhalten, Leistung und Nutzung nicht verifizierter Dienste und/oder Software zu eliminieren oder zu stoppen. Ihr System ist vollständig von großen Technologieunternehmen befreit! Gewinnen Sie Ihre Freiheit zurück!",
+        "tag9": "Warum sich von großen Technologieunternehmen befreien?",
+        "tarif": {
+            "titre": "Installationstarif",
+            "value": [
+                "Vollständige Festplattenverschlüsselung (LUKS LVM dm-crypt)",
+                "Secure Boot und geschütztes BIOS",
+                "Von jeglicher Telemetrie bereinigt",
+                "Open-Source-Anwendungen",
+                "Isolierung von Anwendungen in virtuellen Containern (interagiert nicht direkt mit dem System)",
+                "Verschlüsselter Nachrichtendienst",
+                "Verschlüsselte VPN/TOR-Verbindung",
+                "Kill Switch, IPv6-Deaktivierung, zufällige MAC-Adressgenerierung (für jede Netzwerkschnittstelle)",
+                "In den Kernel integrierte physische Firewall und Anwendungs-Firewall",
+                "Erweiterte Netzwerktools",
+                "Verschlüsseltes Notizbuch (Möglichkeit zur Synchronisierung mit einer dezentralisierten Cloud)",
+                "Möglichkeit zur vollständigen Sicherung des Systems auf einer dezentralisierten Cloud",
+                "Erweiterte Tastaturkürzel"
+            ]
+        }
+    },
+    "/services/mobile": {
+        "titre": "Wechseln Sie zu einem Telefon, das Ihre Privatsphäre respektiert und Ihnen völlige Seelenruhe bietet",
+        "t1": "Vollständige Verschlüsselung und Secure Boot",
+        "p1": "Vollständige Verschlüsselung Ihres Telefons. Bewahren Sie Ihre Daten im Falle eines Diebstahls sicher auf! Firmware-Sicherheit, einschließlich spezifischer Funktionen wie Firmware-Verifizierung zur Gewährleistung ihrer Integrität und Sicherheit",
+        "t2": "Isolierung von Anwendungen",
+        "p2": "Anwendungen laufen mit eingeschränkten Berechtigungen. Standardmäßig haben sie nur Zugriff auf die für ihre Funktion unbedingt erforderlichen Ressourcen, wodurch die Möglichkeiten einer Kompromittierung begrenzt werden. Container begrenzen die Interaktionen der Anwendungen mit dem Betriebssystem und reduzieren so das Risiko einer Kompromittierung. Dieser Prozess stellt sicher, dass die Anwendung alles hat, was sie braucht, unabhängig vom zugrunde liegenden System",
+        "t3": "Verschlüsselte Nachrichten",
+        "p3": "Unser System integriert verschlüsselte Nachrichtendienste, die die Vertraulichkeit und Sicherheit all Ihrer Kommunikation garantieren. Diese Nachrichtendienste verwenden Ende-zu-Ende-Verschlüsselung. Kommunizieren Sie mit Ende-zu-Ende-verschlüsselten E-Mails",
+        "t4": "Verschlüsselte VPN/TOR-Verbindung",
+        "p4": "Ihre Verbindungen laufen durch verschlüsselte Tunnel und Tor-Relais, wodurch sichergestellt wird, dass Ihre Daten sicher und anonym bleiben. Diese verschlüsselten Tunnel verhindern jegliches Abfangen oder Überwachen Ihrer Kommunikation durch böswillige Dritte. Tor-Relais fügen eine zusätzliche Schutzschicht hinzu, indem sie Ihren Datenverkehr über mehrere Server leiten und Ihre Online-Aktivität praktisch unmöglich zu verfolgen machen.",
+        "tag4": "Warum ein VPN verwenden?",
+        "t5": "Open-Source-Anwendungen",
+        "p5": "Alle Anwendungen sind Open Source, um die Sicherheit und Flexibilität Ihres hochsicheren Systems zu stärken. Mit ihrem öffentlich zugänglichen Quellcode bieten diese Anwendungen vollständige Transparenz und garantieren Ihnen, dass jede Codezeile auf potenzielle Sicherheitslücken untersucht und überprüft werden kann. Dies bedeutet, dass Sie von der Robustheit einer Software profitieren, die ständig von einer weltweiten Entwicklergemeinschaft überwacht und verbessert wird",
+        "tag5": "Open WAS?",
+        "t6": "Von jeglicher Telemetrie bereinigt",
+        "p6": "Ihr System ist von jeglicher Telemetrie bereinigt, Sie entscheiden sich für eine leistungsstarke Lösung zur Stärkung der Vertraulichkeit und Sicherheit Ihrer Daten. Die Bereinigung besteht darin, die Erfassung von Daten zu Verhalten, Leistung und Nutzung nicht verifizierter Dienste und/oder Software zu eliminieren oder zu stoppen. Ihr System ist vollständig von großen Technologieunternehmen befreit! Gewinnen Sie Ihre Freiheit zurück!",
+        "tag6": "Warum sich von großen Technologieunternehmen befreien?",
+        "t7": "Strahlenschutzhülle und Kameraabdeckung",
+        "p7": "Unsere Strahlenschutzhülle ist speziell entwickelt, um Funkfrequenzsignale und elektromagnetische Wellen zu blockieren, die von elektronischen Geräten ausgestrahlt werden. Durch die Verwendung dieser Hülle werden Sie für Mobilfunkmasten, die Ihre Position ständig verfolgen, unauffindbar. Die Kameraabdeckung ist ein unverzichtbares Zubehör zum Schutz Ihrer Privatsphäre vor visuellen Eingriffen. Sie ermöglicht es, die integrierten Kameras Ihrer Geräte abzudecken, wenn Sie sie nicht benutzen. Einfach anzubringen und zu entfernen, hat sie ein schlankes und diskretes Design, das die Ästhetik Ihres Geräts nicht beeinträchtigt. Darüber hinaus ist sie mit den meisten Geräten kompatibel, die über integrierte Kameras verfügen",
+        "tarif": {
+            "titre": "Installationstarif",
+            "value": [
+                "Vollständige Festplattenverschlüsselung",
+                "Secure Bootloader und Firmware-Verifizierung",
+                "Von jeglicher Telemetrie bereinigt",
+                "Open-Source-Anwendungen",
+                "Isolierung von Anwendungen in virtuellen Containern (interagiert nicht direkt mit dem System)",
+                "Verschlüsselter Nachrichtendienst",
+                "Verschlüsselte VPN/TOR-Verbindung",
+                "Kill Switch, IPv6-Deaktivierung, zufällige MAC-Adressgenerierung (für jede Netzwerkschnittstelle)",
+                "In den Kernel integrierte physische Firewall und Anwendungs-Firewall",
+                "Möglichkeit zur vollständigen Sicherung des Systems auf einer dezentralisierten Cloud"
+            ]
+        }
+    },
+    "/services/cloud": {
+        "titre": "Behalten Sie Ihre Daten sicher bei sich zuhause!",
+        "t1": "Ende-zu-Ende-verschlüsselte Daten",
+        "p1": "Alle Ihre Daten sind auf unserem dezentralen Server Ende-zu-Ende verschlüsselt und gewährleisten maximale Sicherheit und vollständige Vertraulichkeit. Diese Verschlüsselung schützt Ihre sensiblen Informationen vor unbefugtem Zugriff, sowohl während der Übertragung als auch bei der Speicherung. Genießen Sie absolute Ruhe im Wissen, dass Ihre Daten dank unserer fortschrittlichen Verschlüsselungstechnologie sicher und privat bleiben",
+        "t2": "Datenschutz",
+        "p2": "Datenschutz ist unsere oberste Priorität. Ihre Informationen werden niemals an Dritte weitergegeben, wodurch sichergestellt wird, dass Sie die absolute Kontrolle über Ihre Daten haben. Sie können unbesorgt surfen, kommunizieren und arbeiten, in dem Wissen, dass Ihre Daten streng vertraulich und sicher bleiben und nur für Sie zugänglich sind. Sie hosten, Sie kontrollieren!",
+        "t3": "Verschlüsselter Tunnel",
+        "p3": "Ihre CyberSafe-Geräte nutzen verschlüsselte Tunnel für den Zugriff auf den Cloud-Server und gewährleisten so die Sicherheit und Vertraulichkeit Ihrer Daten. Diese kryptografischen Tunnel schützen Ihre Informationen vor Abfangen und unbefugtem Zugriff und ermöglichen Ihnen, Ihre Daten sorgenfrei zu übertragen und zu speichern. Genießen Sie eine sichere und zuverlässige Verbindung, die durch unsere fortschrittliche Verschlüsselungstechnologie für alle Ihre Cloud-Operationen gewährleistet wird",
+        "t4": "Zugriff von überall, wo Sie sind!",
+        "p4": "Selbst wenn Sie lokal bei sich zu Hause hosten, können Sie dank unserer verschlüsselten Tunnel-Technologie von überall auf Ihre Daten zugreifen. Ob unterwegs oder zu Hause, Ihre Informationen sind immer griffbereit und vor unbefugtem Zugriff geschützt. Genießen Sie die Freiheit und Flexibilität einer sicheren Verbindung zu Ihren Daten, unabhängig von Ihrem Standort",
+        "t5": "Freiheit, den Server nach Ihren spezifischen Bedürfnissen zu konfigurieren und anzupassen",
+        "p5": "Passen Sie Ihre Cloud mit unseren flexiblen und sicheren Lösungen an Ihre spezifischen Bedürfnisse an. Konfigurieren Sie Ihre Speicherbereiche, verwalten Sie Zugriffe und Berechtigungen und wählen Sie die Sicherheitsstufen, die Ihren Anforderungen entsprechen. Mit unserer intuitiven Benutzeroberfläche haben Sie die volle Kontrolle, um eine Cloud-Umgebung zu schaffen, die perfekt auf Ihre Erwartungen zugeschnitten ist!",
+        "tarif": {
+            "titre": "Installationstarif",
+            "value": [
+                "Ende-zu-Ende-verschlüsselte Daten",
+                "Kontrolle und Eigentum der Daten",
+                "Vertraulichkeit und Sicherheit",
+                "Selbst-Hosting",
+                "Verschlüsselte Verbindung",
+                "Von überall aus zugänglich, wo Sie sind!",
+                "Hochgradig anpassbar"
+            ]
+        }
+    },
+    "/services/routeur": {
+        "titre": "Nehmen Sie Ihre Box überall mit und verbinden Sie alle Ihre Geräte!",
+        "t1": "Verschlüsselte VPN/TOR-Verbindung",
+        "p1": "Unser Router nutzt verschlüsselte Tunnel und Tor-Relays, um sicherzustellen, dass Ihre Daten sicher und anonym bleiben. Diese verschlüsselten Tunnel verhindern jegliches Abfangen oder Überwachen Ihrer Kommunikation durch böswillige Dritte. Die Tor-Relays fügen eine zusätzliche Schutzschicht hinzu, indem sie Ihren Datenverkehr über mehrere Server leiten und Ihre Online-Aktivität praktisch nicht nachverfolgbar machen",
+        "tag1": "Warum ein VPN verwenden?",
+        "t2": "1Gb/s Durchsatz",
+        "p2": "Unsere Router-Box bietet eine ultraschnelle Internetverbindung mit einer Geschwindigkeit von 1 Gb/s. Dies garantiert Ihnen außergewöhnliche Download- und Upload-Geschwindigkeiten, ideal für bandbreitenintensive Aktivitäten wie 4K-Streaming, Online-Gaming und Telearbeit. Genießen Sie ein unterbrechungsfreies Internet-Erlebnis und optimale Netzwerkleistung dank unserer Spitzentechnologie. Verbinden Sie problemlos mehrere Geräte!",
+        "t3": "Firewall",
+        "p3": "Unser Router verfügt über eine robuste Firewall, die verstärkten Schutz vor externen Bedrohungen bietet. Diese Firewall filtert sorgfältig den gesamten ein- und ausgehenden Datenverkehr und verhindert unbefugte Verbindungen und potenzielle Angriffe, bevor sie Ihr System erreichen. Zusätzliche Schutzmaßnahmen wurden in den Kern integriert, wie der Kill Switch (verhindert die Offenlegung Ihrer IP-Adresse, selbst wenn Ihr VPN getrennt wird) und die Deaktivierung von IPv6",
+        "t4": "Zugriff auf eingeschränkte Inhalte",
+        "p4": "Unsere Router-Box ermöglicht Ihnen einfachen Zugriff auf eingeschränkte Inhalte für all Ihre Geräte. Dank fortschrittlicher Netzwerkfunktionen können Sie geografische Beschränkungen umgehen und Ihre bevorzugten Websites, Streaming-Dienste und andere Inhalte unabhängig von Ihrem Standort genießen. Genießen Sie völlige Freiheit im Internet und unbegrenzten Zugang zu einer Vielzahl von Inhalten dank unserer hochleistungsfähigen Lösung",
+        "t5": "Nehmen Sie sie überall mit!",
+        "p5": "Dank ihrer geringen Größe ist unsere Router-Box so konzipiert, dass sie leicht transportiert werden kann, sodass Sie sie überall hin mitnehmen können. Ob auf Geschäftsreise, im Urlaub oder bei Freunden, Sie können von einer schnellen und sicheren Internetverbindung profitieren. Genießen Sie den Komfort und die Flexibilität eines tragbaren Internetzugangs mit unserer kompakten und leistungsstarken Router-Box",
+        "tarif": {
+            "titre": "Installationstarif",
+            "value": [
+                "Verschlüsselte VPN/TOR-Verbindung",
+                "1Gb/s Durchsatz",
+                "Schützen Sie alle Ihre Geräte!",
+                "Firewall",
+                "Kill Switch, IPv6-Deaktivierung",
+                "Sicherer Zugriff auf eingeschränkte Inhalte!",
+                "Nehmen Sie Ihre Router-Box überall mit, wo Sie sind!"
+            ]
+        }
+    }
+}
