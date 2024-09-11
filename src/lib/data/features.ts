@@ -4,8 +4,12 @@ const Features = [
         "image": "/images/desktop-demo7.png",
     },
     {
+        "prix": "45€/h",
+        "image": "/images/servicesenplus-preview1.png",
+    },
+    {
         "prix": "35€/h",
-        "image": "/images/auditsecurity-preview1.webp",
+        "image": "/images/auditsecurity-preview1.jpg",
     },
     {
         "prix": "149€",
@@ -18,10 +22,6 @@ const Features = [
     {
         "prix": "249€",
         "image": "/images/routeurboxpi-preview1.webp",
-    },
-    {
-        "prix": "45€/h",
-        "image": "/images/servicesenplus-preview1.png",
     }
 ];
 

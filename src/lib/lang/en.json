@@ -7,7 +7,7 @@
             "Private Service"
         ],
         "rdv": "Make an appointment",
-        "contactme": "Contacte me",
+        "contactme": "Contacte us",
         "slogan": "In a digital world where our data is worth our identity, securing data means preserving freedom."
     },
     "meta": {
@@ -78,8 +78,20 @@
                     ]
                 },
                 {
+                    "name": "Forensic analysis",
+                    "description": "With our forensic analysis service, strengthen the resilience of your devices. Identify, analyze and quickly remedy security incidents. We collect and examine digital evidence to determine the origin and extent of attacks.",
+                    "image": "/images/servicesenplus-preview1.png",
+                    "tags": [
+                        {
+                            "label": "Learn more",
+                            "redirect": "services/analyse-forensique",
+                            "color": "secondary"
+                        }
+                    ]
+                },
+                {
                     "name": "Security Audit and Consultation",
-                    "description": "Our security audit service helps you identify vulnerabilities and potential threats in your computer systems. Receive a detailed report with practical recommendations to strengthen your security. Also benefit from specialized consultation to develop a security plan tailored to your needs. Contact me now to schedule your audit and improve your cybersecurity!",
+                    "description": "Our security audit service helps you identify vulnerabilities and potential threats in your computer systems. Receive a detailed report with practical recommendations to strengthen your security.",
                     "image": "/images/auditsecurity-preview1.webp",
                     "tags": [
                         {
@@ -164,18 +176,6 @@
                         {
                             "label": "Learn more",
                             "redirect": "services/box-routeur",
-                            "color": "secondary"
-                        }
-                    ]
-                },
-                {
-                    "name": "Forensic analysis",
-                    "description": "With our forensic analysis service, strengthen the resilience of your devices. Identify, analyze and quickly remedy security incidents. We collect and examine digital evidence to determine the origin and extent of attacks.",
-                    "image": "/images/servicesenplus-preview1.png",
-                    "tags": [
-                        {
-                            "label": "Learn more",
-                            "redirect": "services/analyse-forensique",
                             "color": "secondary"
                         }
                     ]

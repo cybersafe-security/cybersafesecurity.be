@@ -7,7 +7,7 @@
             "Service privée"
         ],
         "rdv": "Prendre rendez-vous",
-        "contactme": "Contacter-moi",
+        "contactme": "Contactez-nous",
         "slogan": "Dans un monde numérique où nos données valent notre identité, sécuriser ses données, c'est préserver sa liberté."
     },
     "meta": {
@@ -78,8 +78,20 @@
                     ]
                 },
                 {
+                    "name": "Analyse forensique",
+                    "description": "Avec notre service d'analyse forensique, renforcez la résilience de vos appareils. Identifier, analyser et remédier rapidement aux incidents de sécurité. Nous collectons et examinons les preuves numériques pour déterminer l'origine et l'ampleur des attaques.",
+                    "image": "/images/servicesenplus-preview1.png",
+                    "tags": [
+                        {
+                            "label": "En savoir plus",
+                            "redirect": "services/analyse-forensique",
+                            "color": "secondary"
+                        }
+                    ]
+                },
+                {
                     "name": "Audit de sécurité et Consultation",
-                    "description": "Notre service d’audit de sécurité vous aide à identifier les vulnérabilités et les menaces potentielles dans vos systèmes informatiques. Recevez un rapport détaillé avec des recommandations pratiques pour renforcer votre sécurité. Bénéficiez également d’une consultation spécialisée pour élaborer un plan de sécurité adapté à vos besoins. Contactez-moi dès maintenant pour planifier votre audit et améliorer votre cybersécurité !",
+                    "description": "Notre service d’audit de sécurité vous aide à identifier les vulnérabilités et les menaces potentielles dans vos systèmes informatiques. Recevez un rapport détaillé avec des recommandations pratiques pour renforcer votre sécurité.",
                     "image": "/images/auditsecurity-preview1.webp",
                     "tags": [
                         {
@@ -164,18 +176,6 @@
                         {
                             "label": "En savoir plus",
                             "redirect": "services/box-routeur",
-                            "color": "secondary"
-                        }
-                    ]
-                },
-                {
-                    "name": "Analyse forensique",
-                    "description": "Avec notre service d'analyse forensique, renforcez la résilience de vos appareils. Identifier, analyser et remédier rapidement aux incidents de sécurité. Nous collectons et examinons les preuves numériques pour déterminer l'origine et l'ampleur des attaques.",
-                    "image": "/images/servicesenplus-preview1.png",
-                    "tags": [
-                        {
-                            "label": "En savoir plus",
-                            "redirect": "services/analyse-forensique",
                             "color": "secondary"
                         }
                     ]

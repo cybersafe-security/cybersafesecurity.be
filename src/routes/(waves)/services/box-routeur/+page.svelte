@@ -11,10 +11,10 @@
 <div in:fly={{ y: 100, duration: 1000 }}>
 <div class="error-page">
    <div class="container">
-	   <img style="margin-top:100px;" src={Features[4].image}>
-	   <h1>{$_('/.features.data.4.name')}</h1>
+	   <img style="margin-top:100px;" src={Features[5].image}>
+	   <h1>{$_('/.features.data.5.name')}</h1>
 	   <div class="post-card">
-		   <h5>{$_('/.features.data.4.description')}</h5>
+		   <h5>{$_('/.features.data.5.description')}</h5>
 	   </div>
 	   <br>
 	   <h3>{$_('/services/routeur.titre')}</h3><br>
@@ -64,7 +64,7 @@
 	 <h2>{$_('/services/routeur.tarif.titre')}</h2>
 	 <div class="price">
 	   <span class="currency">€</span>
-	   <span class="amount">{Features[4].prix}</span>
+	   <span class="amount">{Features[5].prix}</span>
 	 </div>
    </div>
    <div class="card-body">

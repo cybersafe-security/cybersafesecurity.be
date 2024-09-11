@@ -11,10 +11,10 @@
 <div in:fly={{ y: 100, duration: 1000 }}>
 <div class="error-page">
    <div class="container">
-	   <img style="margin-top:100px;height:400px;" src={Features[2].image}>
-	   <h1>{$_('/.features.data.2.name')}</h1>
+	   <img style="margin-top:100px;height:400px;" src={Features[3].image}>
+	   <h1>{$_('/.features.data.3.name')}</h1>
 	   <div class="post-card">
-		   <h5>{$_('/.features.data.2.description')}</h5>
+		   <h5>{$_('/.features.data.3.description')}</h5>
 	   </div>
 	   <br>
 	   <h3>{$_('/services/mobile.titre')}</h3><br>
@@ -79,7 +79,7 @@
 	 <h2>{$_('/services/mobile.tarif.titre')}</h2>
 	 <div class="price">
 	   <span class="currency">€</span>
-	   <span class="amount">{parseInt(Features[2].prix)}</span>
+	   <span class="amount">{parseInt(Features[3].prix)}</span>
 	 </div>
    </div>
    <div class="card-body">
@@ -89,11 +89,11 @@
       {/each}
 	 </ul>
 	 <div class="tag-info">
-	 <Tag color={$_('/.features.data.2.tags.1.color')}>{$_('/.features.data.2.tags.1.label')}</Tag>
+	 <Tag color={$_('/.features.data.3.tags.1.color')}>{$_('/.features.data.3.tags.1.label')}</Tag>
 	 <br>
-	 <Tag color={$_('/.features.data.2.tags.2.color')}>{$_('/.features.data.2.tags.2.label')}</Tag>
+	 <Tag color={$_('/.features.data.3.tags.2.color')}>{$_('/.features.data.3.tags.2.label')}</Tag>
 	 <br>
-	 <Tag>{$_('/.features.data.2.tags.0.label')}</Tag>
+	 <Tag>{$_('/.features.data.3.tags.0.label')}</Tag>
 	 <br>
 	 </div>
    </div>

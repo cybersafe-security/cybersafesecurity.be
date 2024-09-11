@@ -20,7 +20,7 @@
 						name={feature.name}
 						description={feature.description}
 						image={Features[index].image}
-						tags={feature.tags}
+						tags={feature.tags.slice(-1)}
 					/>
 				{/each}
 			</div>

@@ -7,7 +7,7 @@
             "Privédienst"
         ],
         "rdv": "Een afspraak maken",
-        "contactme": "Neem contact met me op",
+        "contactme": "Neem contact met ons op",
         "slogan": "In een digitale wereld waar onze gegevens onze identiteit bepalen, is het beveiligen van je gegevens het behouden van je vrijheid."
     },
     "meta": {
@@ -78,8 +78,20 @@
                     ]
                 },
                 {
+                    "name": "Forensische analyse",
+                    "description": "Met onze forensische analysedienst versterk je de weerbaarheid van je apparaten. Identificeer, analyseer en verhelp snel beveiligingsincidenten. We verzamelen en onderzoeken digitaal bewijs om de oorsprong en omvang van aanvallen te bepalen.",
+                    "image": "/images/servicesenplus-preview1.png",
+                    "tags": [
+                        {
+                            "label": "Meer weten",
+                            "redirect": "services/analyse-forensique",
+                            "color": "secondary"
+                        }
+                    ]
+                },
+                {
                     "name": "Beveiligingsaudit en Consultatie",
-                    "description": "Onze beveiligingsauditdienst helpt je bij het identificeren van kwetsbaarheden en potentiële bedreigingen in je computersystemen. Ontvang een gedetailleerd rapport met praktische aanbevelingen om je beveiliging te versterken. Profiteer ook van gespecialiseerde consultatie om een beveiligingsplan op maat van je behoeften op te stellen. Neem nu contact met me op om je audit te plannen en je cyberbeveiliging te verbeteren!",
+                    "description": "Onze beveiligingsauditdienst helpt je bij het identificeren van kwetsbaarheden en potentiële bedreigingen in je computersystemen. Ontvang een gedetailleerd rapport met praktische aanbevelingen om je beveiliging te versterken.",
                     "image": "/images/auditsecurity-preview1.webp",
                     "tags": [
                         {
@@ -164,18 +176,6 @@
                         {
                             "label": "Meer weten",
                             "redirect": "services/box-routeur",
-                            "color": "secondary"
-                        }
-                    ]
-                },
-                {
-                    "name": "Forensische analyse",
-                    "description": "Met onze forensische analysedienst versterk je de weerbaarheid van je apparaten. Identificeer, analyseer en verhelp snel beveiligingsincidenten. We verzamelen en onderzoeken digitaal bewijs om de oorsprong en omvang van aanvallen te bepalen.",
-                    "image": "/images/servicesenplus-preview1.png",
-                    "tags": [
-                        {
-                            "label": "Meer weten",
-                            "redirect": "services/analyse-forensique",
                             "color": "secondary"
                         }
                     ]

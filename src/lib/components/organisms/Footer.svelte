@@ -88,12 +88,12 @@
 		<div class="footer-section company">
 			<h4> {$_('footer.label.0')}</h4>
 			<ul>
-				 	<li><a href="/services/analyse-forensique">{$_('/.features.data.5.name')}</a></li>
+				 	<li><a href="/services/analyse-forensique">{$_('/.features.data.2.name')}</a></li>
 					<li><a href="/services/consultation">{$_('/.features.data.1.name')}</a></li>
 					<li><a href="/services/pc">{$_('/.features.data.0.name')}</a></li>
-					<li><a href="/services/mobile">{$_('/.features.data.2.name')}</a></li>
-					<li><a href="/services/cloud">{$_('/.features.data.3.name')}</a></li>
-					<li><a href="/services/box-routeur">{$_('/.features.data.4.name')}</a></li>
+					<li><a href="/services/mobile">{$_('/.features.data.3.name')}</a></li>
+					<li><a href="/services/cloud">{$_('/.features.data.4.name')}</a></li>
+					<li><a href="/services/box-routeur">{$_('/.features.data.5.name')}</a></li>
 			</ul>
 		</div>
 		<div class="footer-section quick-links">

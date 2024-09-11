@@ -7,7 +7,7 @@
             "Privater Dienst"
         ],
         "rdv": "Termin vereinbaren",
-        "contactme": "Kontaktieren Sie mich",
+        "contactme": "Kontaktieren Sie uns",
         "slogan": "In einer digitalen Welt, in der unsere Daten unsere Identität wert sind, bedeutet die Sicherung unserer Daten den Schutz unserer Freiheit."
     },
     "meta": {
@@ -78,8 +78,20 @@
                     ]
                 },
                 {
+                    "name": "Forensische Analyse",
+                    "description": "Mit unserem forensischen Analysedienst stärken Sie die Widerstandsfähigkeit Ihrer Geräte. Identifizieren, analysieren und beheben Sie Sicherheitsvorfälle schnell. Wir sammeln und untersuchen digitale Beweise, um den Ursprung und das Ausmaß von Angriffen zu bestimmen.",
+                    "image": "/images/servicesenplus-preview1.png",
+                    "tags": [
+                        {
+                            "label": "Mehr erfahren",
+                            "redirect": "services/analyse-forensique",
+                            "color": "secondary"
+                        }
+                    ]
+                },
+                {
                     "name": "Sicherheitsaudit und Beratung",
-                    "description": "Unser Sicherheitsaudit-Service hilft Ihnen, Schwachstellen und potenzielle Bedrohungen in Ihren IT-Systemen zu identifizieren. Erhalten Sie einen detaillierten Bericht mit praktischen Empfehlungen zur Verbesserung Ihrer Sicherheit. Profitieren Sie auch von einer spezialisierten Beratung zur Entwicklung eines maßgeschneiderten Sicherheitsplans für Ihre Bedürfnisse. Kontaktieren Sie mich jetzt, um Ihr Audit zu planen und Ihre Cybersicherheit zu verbessern!",
+                    "description": "Unser Sicherheitsaudit-Service hilft Ihnen, Schwachstellen und potenzielle Bedrohungen in Ihren IT-Systemen zu identifizieren. Erhalten Sie einen detaillierten Bericht mit praktischen Empfehlungen zur Verbesserung Ihrer Sicherheit.",
                     "image": "/images/auditsecurity-preview1.webp",
                     "tags": [
                         {
@@ -164,18 +176,6 @@
                         {
                             "label": "Mehr erfahren",
                             "redirect": "services/box-routeur",
-                            "color": "secondary"
-                        }
-                    ]
-                },
-                {
-                    "name": "Forensische Analyse",
-                    "description": "Mit unserem forensischen Analysedienst stärken Sie die Widerstandsfähigkeit Ihrer Geräte. Identifizieren, analysieren und beheben Sie Sicherheitsvorfälle schnell. Wir sammeln und untersuchen digitale Beweise, um den Ursprung und das Ausmaß von Angriffen zu bestimmen.",
-                    "image": "/images/servicesenplus-preview1.png",
-                    "tags": [
-                        {
-                            "label": "Mehr erfahren",
-                            "redirect": "services/analyse-forensique",
                             "color": "secondary"
                         }
                     ]
