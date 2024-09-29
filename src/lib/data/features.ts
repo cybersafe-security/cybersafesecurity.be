@@ -13,7 +13,7 @@ const Features = [
     },
     {
         "prix": "149€",
-        "image": "/images/mobile-preview1.png",
+        "image": "/images/cs-mobile-degoogliser.jpg",
     },
     {
         "prix": "399€",
