@@ -41,7 +41,7 @@
 
 <style lang="scss">
 	img {
-		width: 100%;
+		width: 10%;
 		height: 100%;
 		object-fit: contain;
 	}
