@@ -5,7 +5,8 @@ const Features = [
     },
     {
         "prix": "45€/h",
-        "image": "/images/servicesenplus-preview1.png",
+        //"image": "/images/servicesenplus-preview1.png",
+	"images":"/images/cs-mobile-degoogliser.jpg",
     },
     {
         "prix": "35€/h",
