@@ -51,12 +51,12 @@
             "btn": "Ik wil me beschermen!"
         },
         "about": {
-            "title": "Een besturingssysteem dat uw privacy",
+            "title": "Een besturingssysteem dat je privacy respecteert",
             "title_star": "respecteert!",
-            "card1_p1": "Ben je journalist, zelfstandige of gewoon een burger die controle wil houden over zijn privacy?",
-            "card1_p2": "Wil je je vrijheid terugkrijgen en je loskoppelen van de digitale giganten terwijl je je gegevens beschermt?",
+            "card1_p1": "Ben je journalist, freelancer of gewone burger en wil je controle houden over je privéleven?",
+            "card1_p2": "Wil je je vrijheid terugwinnen en je loskoppelen van de digitale reuzen terwijl je je gegevens beschermt?",
             "card1_p3": "Bescherm jezelf dan met CyberSafe Security",
-            "card2_p1": "Je systemen zijn gezuiverd van alle telemetrie. Maak je los van de tech-giganten. Je verbindingen gaan via versleutelde tunnels en Tor-relays. Communiceer met end-to-end versleutelde berichten!",
+            "card2_p1": "Je systemen zijn ontdaan van alle telemetrie. Loop niet vast. Je verbindingen gaan door versleutelde tunnels en Tor-relais. Communiceer met end-to-end versleuteld berichtenverkeer! Alle toepassingen draaien in virtuele sandboxes.",
             "card2_p2": "Alle applicaties draaien in virtuele sandboxes",
             "card2_p3": "Herwin je vrijheid en surf anoniem op het internet!"
         },
@@ -67,7 +67,7 @@
             "data": [
                 {
                     "name": "Beveiligde computer",
-                    "description": "Beveiligd besturingssysteem, gezuiverd van alle telemetrie, volledige schijfversleuteling. Je verbindingen gaan via versleutelde tunnels. Applicaties draaien in virtuele sandboxes. Versleutelde berichten,...",
+                    "description": "Beveiligd besturingssysteem, geen telemetrie, volledige schijfversleuteling. Je verbindingen gaan door versleutelde tunnels. Toepassingen draaien in virtuele sandboxes. Versleutelde berichten...",
                     "image": "/images/desktop-demo7.png",
                     "tags": [
                         {
@@ -79,7 +79,7 @@
                 },
                 {
                     "name": "Forensische analyse",
-                    "description": "Met onze forensische analysedienst versterk je de weerbaarheid van je apparaten. Identificeer, analyseer en verhelp snel beveiligingsincidenten. We verzamelen en onderzoeken digitaal bewijs om de oorsprong en omvang van aanvallen te bepalen.",
+                    "description": "Versterk de veerkracht van je apparaten met onze forensische analyseservice. Identificeer, analyseer en herstel beveiligingsincidenten snel. We verzamelen en onderzoeken digitaal bewijs om de oorsprong en omvang van aanvallen vast te stellen.",
                     "image": "/images/servicesenplus-preview1.png",
                     "tags": [
                         {
@@ -91,7 +91,7 @@
                 },
                 {
                     "name": "Beveiligingsaudit en Consultatie",
-                    "description": "Onze beveiligingsauditdienst helpt je bij het identificeren van kwetsbaarheden en potentiële bedreigingen in je computersystemen. Ontvang een gedetailleerd rapport met praktische aanbevelingen om je beveiliging te versterken.",
+                    "description": "Onze service voor beveiligingsaudits helpt je bij het identificeren van kwetsbaarheden en potentiële bedreigingen in je IT-systemen. Je ontvangt een gedetailleerd rapport met praktische aanbevelingen om jouw beveiliging te versterken. Je kunt ook gebruikmaken van een gespecialiseerde consultancydienst om een beveiligingsplan op te stellen dat is afgestemd op jouw behoeften. Neem nu contact met me op om je audit te plannen en je cyberbeveiliging te verbeteren!",
                     "image": "/images/auditsecurity-preview1.webp",
                     "tags": [
                         {
@@ -103,7 +103,7 @@
                 },
                 {
                     "name": "Ontgooglede mobiele telefoon",
-                    "description": "Implementatie van een ontgooglede telefoon: geen telemetrie, versleutelde berichten. Ons besturingssysteem garandeert de bescherming van je privacy door Google-diensten en alle gegevensverzameling te elimineren. Stap over op een telefoon die je privacy respecteert en je totale gemoedsrust biedt.",
+                    "description": "Een niet-verbonden telefoon instellen: geen telemetrie, versleutelde berichtenuitwisseling. Ons OS garandeert je privacy door Google-services en alle gegevensverzameling te elimineren. Stap over op een telefoon die je privacy respecteert en je totale gemoedsrust geeft.",
                     "image": "/images/mobile-preview1.png",
                     "tags": [
                         {
@@ -126,7 +126,7 @@
                 },
                 {
                     "name": "Gedecentraliseerde cloudserver",
-                    "description": "Implementatie van een versleutelde en gedecentraliseerde cloudserver bij jou thuis om je foto's, video's, e-mails,... veilig op te slaan! Al je CyberSafe-apparaten kunnen verbinding maken met de cloudserver voor wekelijkse back-ups.",
+                    "description": "Zet een versleutelde, gedecentraliseerde cloudserver op die bij jou op locatie wordt gehost om volledig veilig een back-up te maken van je foto's, video's, e-mails, enzovoort! Uw CyberSafe-apparaten kunnen allemaal verbinding maken met de cloudserver voor wekelijkse back-ups.",
                     "image": "/images/nextcloud-preview1.webp",
                     "tags": [
                         {
