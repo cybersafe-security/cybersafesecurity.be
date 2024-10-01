@@ -6,7 +6,6 @@
 		'authme-logo.png',
 		'electronmail-logo.png',
 		'cryptext-logo-label.png',
-		'zrok-logo.png',
 		'nextcloud-logo-label.png'
 	];
 </script>

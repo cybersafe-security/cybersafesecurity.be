@@ -14,7 +14,6 @@
 		'authme-logo-label.png',
 		'electronmail-logo.png',
 		'cryptext-logo-label.png',
-		'zrok-logo.png',
 		'nextcloud-logo-label.png',
 		'brave-logo.png',
 		'torproject-logo.svg',
