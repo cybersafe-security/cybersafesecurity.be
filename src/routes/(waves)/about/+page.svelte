@@ -10,7 +10,6 @@
 
 <div class="error-page">
 	<div class="container">
-        <img width="100" height="100" src="images/logo.png" alt="fingerprint--v1" />
 		<h1 in:fly="{{ y: 50, duration: 1000 }}">{$_('/about.titre')}</h1>
 	</div>
 </div>
