@@ -96,7 +96,7 @@
 		
 	</div>
 	<div class="image">
-		<img style="box-shadow:0px 0px 8px black; width: 100%;height: 100%;object-fit: contain;" src="/images/cs-mobile-degoogliser.jpg" />
+		<img style="box-shadow:0px 0px 8px black; width: 100%;height: 100%;" src="/images/cs-mobile-degoogliser.jpg" />
 	</div>
 </section>
 
