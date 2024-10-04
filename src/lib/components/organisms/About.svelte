@@ -96,7 +96,7 @@
 		
 	</div>
 	<div class="image">
-		<Image src="/images/pc-portable-preview.png" alt="Sample for the static template" />
+		<Image src="/images/cs-mobile-degoogliser.jpg" alt="Sample for the static template" />
 	</div>
 </section>
 
