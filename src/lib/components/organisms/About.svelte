@@ -95,7 +95,7 @@
 	</Card.Root>
 		
 	</div>
-	<div class="image" style="box-shadow:0px 0px 8px black;">
+	<div class="image">
 		<Image src="/images/cs-mobile-degoogliser.jpg" alt="Sample for the static template" />
 	</div>
 </section>
