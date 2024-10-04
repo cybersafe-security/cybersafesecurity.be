@@ -97,7 +97,7 @@
 	</div>
 	<div class="image">
 		<!-- <Image src="/images/cs-mobile-degoogliser.jpg" alt="Sample for the static template" /> -->
-		<img width="50" height="50" src="/images/cs-mobile-degoogliser.jpg" />
+		<img width="200" height="200" src="/images/cs-mobile-degoogliser.jpg" />
 	</div>
 </section>
 
