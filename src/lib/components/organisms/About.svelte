@@ -97,7 +97,9 @@
 	</div>
 	<div class="image">
 		<!-- <Image src="/images/cs-mobile-degoogliser.jpg" alt="Sample for the static template" /> -->
-		<img width="200" height="200" src="/images/cs-mobile-degoogliser.jpg" />
+		<img style="width: 100%;
+		height: 100%;
+		object-fit: contain;" src="/images/cs-mobile-degoogliser.jpg" />
 	</div>
 </section>
 
