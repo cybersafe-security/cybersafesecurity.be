@@ -95,8 +95,8 @@
 	</Card.Root>
 		
 	</div>
-	<div class="image">
-		<img style="box-shadow:0px 0px 8px black; width: 100%;height: 100%;" src="/images/cs-mobile-degoogliser.jpg" />
+	<div class="image" style="background: rgba(0, 0, 0, 0.6);border:solid 1px #6f147f;box-shadow:0px 0px 10px black;">
+		<Image src="/images/cs-mobile-degoogliser.jpg" alt="Sample for the static template" />
 	</div>
 </section>
 
